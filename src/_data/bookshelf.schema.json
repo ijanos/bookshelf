@@ -1,0 +1,106 @@
+{
+    "$id": "bookshelf.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Bookshelf",
+    "type": "object",
+    "properties": {
+        "books": {
+            "type": "array",
+            "items": {
+                "$ref": "#/$defs/book"
+            }
+        }
+    },
+    "$defs": {
+        "book": {
+            "type": "object",
+            "defaultSnippets": [
+                {
+                    "label": "new book",
+                    "description": "Add a new book to your bookshelf",
+                    "body": { "title": "$1", "author": "$2", "read": "$3", "tags": ["$4"] }
+                }
+            ],
+            "required": [
+                "title",
+                "published",
+                "tags"
+            ],
+            "properties": {
+                "author": {
+                    "type": ["string", "array"],
+                    "description": "Author's name",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "title": {
+                    "type": "string",
+                    "description": "Title of book"
+                },
+                "published": {
+                    "description": "Year of original publication",
+                    "type": "integer",
+                    "minimum": 1600,
+                    "maximum": 2100
+                },
+                "pages": {
+                    "description": "Approximate length of the book in pages",
+                    "type": "integer",
+                    "minimum": 1
+                },
+                "series": {
+                    "type": "string",
+                    "description": "The series the book is part of"
+                },
+                "read": {
+                    "type": "string",
+                    "format": "date"
+                },
+                "language": {
+                    "type": "string",
+                    "minLength": 3,
+                    "maxLength": 3
+                },
+                "tags": {
+                    "description": "Tags for the book",
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "enum": [
+                            "alternate history",
+                            "biography",
+                            "comic",
+                            "cosmic horror",
+                            "crime",
+                            "cyberpunk",
+                            "didnt finish",
+                            "dystopian",
+                            "fantasy",
+                            "fiction",
+                            "historical fiction",
+                            "horror",
+                            "hugo-nominee",
+                            "hugo-winner",
+                            "magical realism",
+                            "manga",
+                            "military",
+                            "mythology",
+                            "nonfiction",
+                            "novella",
+                            "scifi",
+                            "short-stories",
+                            "short",
+                            "thriller",
+                            "space opera",
+                            "timetravel",
+                            "urban fantasy"
+                        ]
+                    },
+                    "minItems": 1,
+                    "uniqueItems": true
+                }
+            }
+        }
+    }
+}

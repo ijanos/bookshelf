@@ -1,0 +1,29 @@
+---
+layout: default
+title: "bookshelf"
+description: ""
+---
+      <div class="relative overflow-x-auto rounded-lg">
+        <table id="bookshelf" class="w-full text-sm text-left text-gray-500">
+            <thead class="h-6 text-xs text-gray-700 uppercase bg-gray-50">
+                <tr>
+                    <th scope="col" class="hidden px-6 sm:table-cell">Author</th>
+                    <th scope="col" class="px-6">Title</th>
+                    <th scope="col" class="hidden px-6 sm:table-cell">Series</th>
+                    <th scope="col" class="px-6">Read</th>
+                    <th scope="col" class="hidden px-6 sm:table-cell">Published</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for book in bookshelf.books %}
+            <tr class="border-b h-7 hover:bg-gray-100">
+              <td class="hidden sm:table-cell">{{ book.author }}</td>
+              <td class="font-medium text-gray-900">{{ book.title | title }}</td>
+              <td class="hidden sm:table-cell">{{ book.series }}</td>
+              <td class="font-mono text-center whitespace-nowrap">{% if book.read %} {{ book.read }} {% else %} 📖 {% endif %}</td>
+              <td class="hidden px-3 font-mono text-right whitespace-nowrap sm:table-cell">{{ book.published }}</td>
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
