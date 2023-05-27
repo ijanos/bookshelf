@@ -6,10 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title> my reads </title>
     <link rel="stylesheet" href="/styles.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.12.1/dist/cdn.min.js"></script>
   </head>
   <body class="px-2 bg-white md:px-10 lg:px-28 xl:px-36">
+    <div x-data="{ search: '',
+                   visible: $refs.mytable.querySelectorAll('tbody tr').length,
+                   update() { this.visible = Array.from($refs.mytable.querySelectorAll('tbody tr')).filter((tr) => tr.style.display !== 'none').length;  }
+             }">
   {% include "nav.njk" %}
+  <input type="text" x-model="search" x-on:input.debounce.50ms="update()" class="w-full p-2 my-2 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50"
+  placeholder="search">
   <main> {{ content | safe }} </main>
+  </div>
   <footer class="p-12 text-xs text-center text-gray-600">
     📚 <br> {{ buildDate.toISOString().slice(0, 10) }}</footer>
   </body>
