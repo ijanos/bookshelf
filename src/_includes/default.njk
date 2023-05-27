@@ -14,7 +14,7 @@
                    update() { this.visible = Array.from($refs.mytable.querySelectorAll('tbody tr')).filter((tr) => tr.style.display !== 'none').length;  }
              }">
   {% include "nav.njk" %}
-  <input type="text" x-model="search" x-on:input.debounce.50ms="update()" class="w-full p-2 my-2 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50"
+  <input type="text" x-model="search" x-on:input.debounce.50ms="update()" class="w-full p-1 my-2 text-xs text-gray-900 border border-gray-300 rounded-lg focus:text-base bg-gray-50"
   placeholder="search">
   <main> {{ content | safe }} </main>
   </div>
