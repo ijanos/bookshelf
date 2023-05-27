@@ -3,8 +3,19 @@ layout: default
 title: "bookshelf"
 description: ""
 ---
+<div x-data="{ search: '',
+                   visible: $refs.tbody.querySelectorAll('tr').length,
+                   update() { this.visible = Array.from($refs.tbody.querySelectorAll('tr')).filter((tr) => tr.style.display !== 'none').length;
+                  }
+                 }">
+    <input type="text"
+           x-model="search"
+           x-on:input.debounce.50ms="update()"
+           class="w-full p-1 my-2 text-xs text-gray-900 border border-gray-300 rounded-lg focus:text-base bg-gray-50"
+          placeholder="search">
+
       <div class="relative overflow-x-auto rounded-lg">
-        <table id="bookshelf"  x-ref="mytable" class="w-full text-sm text-left text-gray-500">
+        <table id="bookshelf" class="w-full text-sm text-left text-gray-500">
             <thead class="h-6 text-gray-700 uppercase text-s bg-gray-50">
                 <tr>
                     <th scope="col" class="hidden px-6 sm:table-cell">Author</th>
@@ -14,7 +25,7 @@ description: ""
                     <th scope="col" class="hidden px-6 sm:table-cell">Published</th>
                 </tr>
             </thead>
-            <tbody>
+            <tbody x-ref="tbody">
             {% for book in bookshelf.books %}
             <tr class="border-b h-7 hover:bg-gray-100" x-show="$el.textContent.toLowerCase().includes(search.toLowerCase())">
               <td class="hidden sm:table-cell">{{ book.author }}</td>
@@ -25,9 +36,13 @@ description: ""
             </tr>
             {% endfor %}
             </tbody>
-            <tfoot class="h-6 text-gray-500 text-s bg-gray-50">
-            <tr> <th colspan="5">
-             <span class="text-gray-900">   <span x-text="visible"></span> books </span> out of <span x-text="$refs.mytable.querySelectorAll('tbody tr').length"></span> </th> </tr>
-    </tfoot>
+            <tfoot class="h-6 text-gray-300 text-s bg-gray-50">
+            <tr>
+              <th colspan="5">
+              <span class="text-gray-900"> <span x-text="visible"></span> books</span> out of <span x-text="$refs.tbody.querySelectorAll('tr').length"></span>
+              </th>
+            </tr>
+            </tfoot>
         </table>
     </div>
+</div>
