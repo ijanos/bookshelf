@@ -2,12 +2,22 @@
   "$schema": "./bookshelf.schema.json",
   "books": [
     {
+      "title": "The Stars My Destination",
+      "author": "Alfred Bester",
+      "read": "",
+      "tags": [
+        "scifi"
+      ],
+      "published": 1956
+    },
+    {
       "title": "The Frugal Wizard’s Handbook for Surviving Medieval England",
       "author": "Brandon Sanderson",
       "read": "2023-06-01",
       "published": 2023,
       "tags": [
-        ""
+        "scifi",
+        "isekai"
       ]
     },
     {
@@ -685,8 +695,8 @@
       ],
       "series": "One Punch Man",
       "title": "One Punch Man vol 9",
-      "published": 0,
-      "read": "",
+      "published": 2015,
+      "read": "2022-08-21",
       "tags": [
         "comic",
         "manga"
@@ -700,8 +710,8 @@
       ],
       "series": "One Punch Man",
       "title": "One Punch Man vol 8",
-      "published": 0,
-      "read": "",
+      "published": 2015,
+      "read": "2022-08-21",
       "tags": [
         "comic",
         "manga"
@@ -715,8 +725,8 @@
       ],
       "series": "One Punch Man",
       "title": "One Punch Man vol 7",
-      "published": 0,
-      "read": "",
+      "published": 2014,
+      "read": "2022-08-20",
       "tags": [
         "comic",
         "manga"
@@ -730,8 +740,8 @@
       ],
       "series": "One Punch Man",
       "title": "One Punch Man vol 6",
-      "published": 0,
-      "read": "",
+      "published": 2014,
+      "read": "2022-08-20",
       "tags": [
         "comic",
         "manga"
@@ -746,7 +756,7 @@
       "series": "One Punch Man",
       "title": "One Punch Man vol 5",
       "published": 2013,
-      "read": "",
+      "read": "2022-08-20",
       "tags": [
         "comic",
         "manga"
@@ -761,7 +771,7 @@
       "series": "One Punch Man",
       "title": "One Punch Man vol 4",
       "published": 2013,
-      "read": "",
+      "read": "2022-08-20",
       "tags": [
         "comic",
         "manga"
@@ -776,7 +786,7 @@
       "series": "One Punch Man",
       "title": "One Punch Man vol 3",
       "published": 2013,
-      "read": "",
+      "read": "2022-08-16",
       "tags": [
         "comic",
         "manga"
@@ -791,7 +801,7 @@
       "series": "One Punch Man",
       "title": "One Punch Man vol 2",
       "published": 2012,
-      "read": "",
+      "read": "2022-08-16",
       "tags": [
         "comic",
         "manga"
@@ -806,7 +816,7 @@
       "series": "One Punch Man",
       "title": "One Punch Man vol 1",
       "published": 2012,
-      "read": "",
+      "read": "2022-07-23",
       "tags": [
         "comic",
         "manga"
@@ -1754,7 +1764,7 @@
       "series": "",
       "title": "I Have No Mouth, and I Must Scream",
       "published": 1967,
-      "read": "2012",
+      "read": "2014-07-23",
       "tags": [
         "hugo-winner",
         "horror",
@@ -1869,7 +1879,7 @@
       "series": "",
       "title": "The Windup Girl",
       "published": 2009,
-      "read": "",
+      "read": "2012-03-04",
       "tags": [
         "Hugo🥇",
         "biopunk",
@@ -1896,7 +1906,7 @@
       "title": "Childhood's End",
       "published": 1953,
       "pages": 224,
-      "read": "",
+      "read": "2012-08-01",
       "tags": [
         "scifi"
       ],
@@ -1984,9 +1994,9 @@
     {
       "author": "Peter Watts",
       "series": "Sunflowers cycle",
-      "title": "The Island",
+      "title": "The Island and Other Stories",
       "published": 2009,
-      "read": "2012",
+      "read": "2013-04-13",
       "pages": 76,
       "tags": [
         "scifi",
@@ -2120,7 +2130,7 @@
       "series": "Culture #2",
       "title": "The Player of Games",
       "published": 1988,
-      "read": "",
+      "read": "2004?",
       "pages": 293,
       "tags": [
         "scifi"
@@ -2682,7 +2692,7 @@
       "series": "The Book of the New Sun #2",
       "title": "The Claw of the Conciliator",
       "published": 1981,
-      "read": "",
+      "read": "2013-06-30",
       "tags": [
         "scifi"
       ],
@@ -2694,7 +2704,7 @@
       "series": "The Book of the New Sun #1",
       "title": "The Shadow of the Torturer",
       "published": 1980,
-      "read": "",
+      "read": "2013-06-30",
       "tags": [
         "scifi"
       ],

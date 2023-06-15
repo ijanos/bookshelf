@@ -94,7 +94,8 @@
                             "thriller",
                             "space opera",
                             "timetravel",
-                            "urban fantasy"
+                            "urban fantasy",
+                            "isekai"
                         ]
                     },
                     "minItems": 1,
