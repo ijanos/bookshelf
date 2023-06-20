@@ -992,18 +992,6 @@
       "language": "ENG"
     },
     {
-      "author": "Paul Midler",
-      "series": "",
-      "title": "Poorly made in China",
-      "published": 2009,
-      "read": "2019-10-20",
-      "tags": [
-        "nonfiction",
-        "didnt finish"
-      ],
-      "language": "ENG"
-    },
-    {
       "author": "China Mieville",
       "series": "",
       "title": "City & the City",
@@ -1123,7 +1111,7 @@
       "title": "Lord of the Flies",
       "published": 1954,
       "pages": 182,
-      "read": "",
+      "read": "2018-07-20",
       "tags": [
         "YA",
         "fiction"
@@ -1148,7 +1136,7 @@
       "title": "The Dispossessed ",
       "published": 1974,
       "pages": 387,
-      "read": "",
+      "read": "2018-06-09",
       "tags": [
         "hugo-winner",
         "dystopian",
@@ -1162,7 +1150,7 @@
       "title": "The Left Hand of Darkness",
       "published": 1969,
       "pages": 304,
-      "read": "",
+      "read": "2018-05-13",
       "tags": [
         "Hugo🥇",
         "scifi"
@@ -1489,6 +1477,20 @@
       "language": "ENG"
     },
     {
+      "author": "Margaret Atwood",
+      "series": "MaddAddam #1",
+      "title": "Oryx and Crake",
+      "published": 2003,
+      "read": "2015-03-16",
+      "tags": [
+        "dystopian",
+        "post-apocalytic",
+        "scifi"
+      ],
+      "pages": 389,
+      "language": "ENG"
+    },
+    {
       "author": "Charles Stross",
       "series": "",
       "title": "Accelerando",
@@ -1679,7 +1681,7 @@
       "series": "The Book of the New Sun #4",
       "title": "The Citadel of the Autarch",
       "published": 1983,
-      "read": "2013-09-25",
+      "read": "2013-09-26",
       "tags": [
         "scifi"
       ],
@@ -1764,7 +1766,7 @@
       "series": "",
       "title": "I Have No Mouth, and I Must Scream",
       "published": 1967,
-      "read": "2014-07-23",
+      "read": "2014-08-23",
       "tags": [
         "hugo-winner",
         "horror",
@@ -1917,7 +1919,7 @@
       "series": "Ender #2",
       "title": "Speaker for the Dead",
       "published": 1986,
-      "read": "2012-03-24",
+      "read": "2012-03-25",
       "tags": [
         "scifi"
       ],
@@ -1929,7 +1931,7 @@
       "series": "Ender #1",
       "title": "Ender's Game",
       "published": 1985,
-      "read": "",
+      "read": "2012-01-15",
       "tags": [
         "Hugo🥇",
         "YA",
@@ -1943,7 +1945,7 @@
       "series": "",
       "title": "The Road",
       "published": 2006,
-      "read": "",
+      "read": "2011-03-08",
       "tags": [
         "dystopian",
         "fiction",
@@ -1953,25 +1955,11 @@
       "language": "ENG"
     },
     {
-      "author": "Margaret Atwood",
-      "series": "MaddAddam #1",
-      "title": "Oryx and Crake",
-      "published": 2003,
-      "read": "2015-03-16",
-      "tags": [
-        "dystopian",
-        "post-apocalytic",
-        "scifi"
-      ],
-      "pages": 389,
-      "language": "ENG"
-    },
-    {
       "author": "Stieg Larsson",
       "series": "Millennium #1",
       "title": "The Girl with the Dragon Tattoo",
       "published": 2005,
-      "read": "",
+      "read": "2011",
       "tags": [
         "crime"
       ],
@@ -2009,7 +1997,7 @@
       "series": "Firefall #1",
       "title": "Blindsight",
       "published": 2006,
-      "read": "2012-01-27",
+      "read": "2012-01-25",
       "tags": [
         "scifi"
       ],
@@ -2090,7 +2078,7 @@
       "series": "A Time Odyssey #2",
       "title": "Sunstorm",
       "published": 2005,
-      "read": "",
+      "read": "2009-11-25",
       "pages": 356,
       "tags": [
         "scifi"
@@ -2123,18 +2111,6 @@
         "scifi"
       ],
       "pages": 464,
-      "language": "HUN"
-    },
-    {
-      "author": "Iain M. Banks",
-      "series": "Culture #2",
-      "title": "The Player of Games",
-      "published": 1988,
-      "read": "2004?",
-      "pages": 293,
-      "tags": [
-        "scifi"
-      ],
       "language": "HUN"
     },
     {
@@ -2225,7 +2201,7 @@
       "series": "",
       "title": "All You Zombies",
       "published": 1959,
-      "read": "",
+      "read": "2014-12-22",
       "tags": [],
       "pages": 13,
       "language": "ENG"
@@ -2271,7 +2247,7 @@
       "series": "Hyperion #1",
       "title": "Hyperion",
       "published": 1989,
-      "read": "",
+      "read": "2010",
       "tags": [
         "Hugo🥇",
         "scifi"
@@ -2521,7 +2497,7 @@
       "series": "",
       "title": "Counter-Clock World",
       "published": 1967,
-      "read": "",
+      "read": "2009-11-25",
       "tags": [
         "scifi"
       ],
@@ -2797,7 +2773,7 @@
       "series": "",
       "title": "VALIS",
       "published": 1981,
-      "read": "",
+      "read": "2004",
       "tags": [],
       "pages": 242,
       "language": "HUN"
@@ -2861,6 +2837,58 @@
       "language": "HUN"
     },
     {
+      "author": "J. K. Rowling",
+      "series": "Harry Potter #7",
+      "title": "Harry Potter and the Deathly Hallows",
+      "published": 2007,
+      "read": "2007",
+      "tags": [
+        "YA",
+        "fantasy",
+        "magic"
+      ],
+      "language": "ENG"
+    },
+    {
+      "author": "J. K. Rowling",
+      "series": "Harry Potter #6",
+      "title": "Harry Potter and the Half-Blood Prince",
+      "published": 2005,
+      "read": "2005",
+      "tags": [
+        "YA",
+        "fantasy",
+        "magic"
+      ],
+      "language": "ENG"
+    },
+    {
+      "author": "Iain M. Banks",
+      "series": "Culture #2",
+      "title": "The Player of Games",
+      "published": 1988,
+      "read": "2004?",
+      "pages": 293,
+      "tags": [
+        "scifi"
+      ],
+      "language": "HUN"
+    },
+    {
+      "author": "J. K. Rowling",
+      "series": "Harry Potter #5",
+      "title": "Harry Potter and the Order of the Phoenix",
+      "published": 2003,
+      "read": "",
+      "tags": [
+        "YA",
+        "fantasy",
+        "magic"
+      ],
+      "language": "HUN"
+    },
+
+    {
       "author": "J.R.R. Tolkien",
       "series": "The Lord of the Rings #3",
       "title": "The Return of the King",
@@ -2897,49 +2925,10 @@
     },
     {
       "author": "J. K. Rowling",
-      "series": "Harry Potter #7",
-      "title": "Harry Potter and the Deathly Hallows",
-      "published": 2007,
-      "read": "2007",
-      "tags": [
-        "YA",
-        "fantasy",
-        "magic"
-      ],
-      "language": "ENG"
-    },
-    {
-      "author": "J. K. Rowling",
-      "series": "Harry Potter #6",
-      "title": "Harry Potter and the Half-Blood Prince",
-      "published": 2005,
-      "read": "2005",
-      "tags": [
-        "YA",
-        "fantasy",
-        "magic"
-      ],
-      "language": "ENG"
-    },
-    {
-      "author": "J. K. Rowling",
-      "series": "Harry Potter #5",
-      "title": "Harry Potter and the Order of the Phoenix",
-      "published": 2003,
-      "read": "",
-      "tags": [
-        "YA",
-        "fantasy",
-        "magic"
-      ],
-      "language": "HUN"
-    },
-    {
-      "author": "J. K. Rowling",
       "series": "Harry Potter #4",
       "title": "Harry Potter and the Goblet of Fire",
       "published": 2000,
-      "read": "",
+      "read": "2001",
       "tags": [
         "Hugo🥇",
         "YA",
@@ -3042,6 +3031,15 @@
         "YA"
       ],
       "language": "HUN"
+    },
+    {
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "published": 1943,
+      "read": "",
+      "tags": [
+        ""
+      ]
     }
   ]
 }
