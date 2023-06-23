@@ -4,10 +4,11 @@
     {
       "title": "The Stars My Destination",
       "author": "Alfred Bester",
-      "read": "",
+      "read": "2023-06-21",
       "tags": [
         "scifi"
       ],
+      "pages": 232,
       "published": 1956
     },
     {
@@ -622,7 +623,7 @@
     {
       "author": "Terry Bisson",
       "series": "",
-      "title": "\nThey're Made out of Meat",
+      "title": "They're Made out of Meat",
       "published": 1991,
       "read": "2020-10-11",
       "tags": [
@@ -1328,7 +1329,7 @@
       "series": "Jean le Flambeur #3",
       "title": "The Causal Angel",
       "published": 2014,
-      "read": "",
+      "read": "?",
       "tags": [
         "posthuman",
         "scifi"
@@ -1341,7 +1342,7 @@
       "series": "Jean le Flambeur #2",
       "title": "The Fractal Prince",
       "published": 2012,
-      "read": "",
+      "read": "?",
       "tags": [
         "posthuman",
         "scifi"
@@ -1354,7 +1355,7 @@
       "series": "Jean le Flambeur #1",
       "title": "The Quantum Thief",
       "published": 2010,
-      "read": "",
+      "read": "?",
       "tags": [
         "posthuman",
         "scifi"
@@ -1815,7 +1816,7 @@
     {
       "title": "The Things",
       "author": "Peter Watts",
-      "read": "",
+      "read": "?",
       "pages": 15,
       "published": 2010,
       "tags": [
@@ -2063,7 +2064,7 @@
       "series": "A Time Odyssey #3",
       "title": "Firstborn",
       "published": 2007,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi"
       ],
@@ -2094,7 +2095,7 @@
       "title": "Time's Eye",
       "published": 2003,
       "pages": 379,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi"
       ],
@@ -2105,7 +2106,7 @@
       "series": "Spin #1",
       "title": "Spin",
       "published": 2005,
-      "read": "",
+      "read": "?",
       "tags": [
         "Hugo🥇",
         "scifi"
@@ -2130,7 +2131,7 @@
       "title": "The Man in the High Castle",
       "published": 1962,
       "pages": 259,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi"
       ],
@@ -2141,7 +2142,7 @@
       "series": "",
       "title": "The Algebraist",
       "published": 2004,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi"
       ],
@@ -2153,7 +2154,7 @@
       "series": "Culture #3",
       "title": "Use of Weapons",
       "published": 1990,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi"
       ],
@@ -2165,7 +2166,7 @@
       "series": "",
       "title": "The Three Stigmata of Palmer Eldritch",
       "published": 1965,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi"
       ],
@@ -2189,7 +2190,7 @@
       "series": "Culture #7",
       "title": "Look to Windward",
       "published": 2000,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi", "space opera"
       ],
@@ -2260,7 +2261,7 @@
       "series": "",
       "title": "2001: A Space Odyssey",
       "published": 1986,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi"
       ],
@@ -2285,7 +2286,7 @@
       "series": "Culture #9",
       "title": "Surface Detail",
       "published": 2010,
-      "read": "",
+      "read": "?",
       "tags": [],
       "pages": 627,
       "language": ""
@@ -2333,7 +2334,7 @@
       "series": "",
       "title": "Ugrás az ismeretlenbe",
       "published": 2004,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi"
       ],
@@ -2344,7 +2345,7 @@
       "series": "",
       "title": "Ugrás az űrbe",
       "published": 2004,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi"
       ],
@@ -2355,7 +2356,7 @@
       "series": "Watch #4",
       "title": "Last Watch",
       "published": 2006,
-      "read": "",
+      "read": "?",
       "tags": [
         "fantasy",
         "urban fantasy"
@@ -2368,7 +2369,7 @@
       "series": "Максим Каммерер #2",
       "title": "Beetle in the Anthill",
       "published": 1980,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi"
       ],
@@ -2379,7 +2380,7 @@
       "series": "Culture #5",
       "title": "Excession",
       "published": 1998,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi",
         "space opera"
@@ -2392,7 +2393,7 @@
       "title": "Twilight Watch",
       "published": 2004,
       "pages": 405,
-      "read": "",
+      "read": "?",
       "tags": [
         "fantasy",
         "urban fantasy"
@@ -2450,7 +2451,7 @@
       "title": "Day Watch",
       "published": 2000,
       "pages": 453,
-      "read": "",
+      "read": "?",
       "tags": [
         "fantasy",
         "urban fantasy"
@@ -2486,7 +2487,7 @@
       "series": "",
       "title": "Something Wicked This Way Comes",
       "published": 1963,
-      "read": "",
+      "read": "?",
       "tags": [
         "fantasy"
       ],
@@ -2508,7 +2509,7 @@
       "series": "",
       "title": "Már megint a felfedezők",
       "published": 1967,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi",
         "short-stories"
@@ -2524,7 +2525,7 @@
       "title": "Prisoners of Power",
       "title-HUN": "Lakott Sziget",
       "published": 1971,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi"
       ],
@@ -2535,7 +2536,7 @@
       "series": "",
       "title": "The Wasp Factory",
       "published": 1984,
-      "read": "",
+      "read": "?",
       "tags": [
         "fiction",
         "thriller"
@@ -2549,7 +2550,7 @@
       "title": "Anansi boys",
       "published": 2005,
       "pages": 387,
-      "read": "",
+      "read": "?",
       "tags": [
         "fantasy"
       ],
@@ -2560,7 +2561,7 @@
       "series": "",
       "title": "Alekszandra és a teremtés növendékei (Vita Nostra)",
       "published": 2007,
-      "read": "",
+      "read": "?",
       "tags": [
         ""
       ],
@@ -2572,7 +2573,7 @@
       "series": "",
       "title": "Beyond the Rift",
       "published": 1994,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi",
         "collection",
@@ -2586,7 +2587,7 @@
       "series": "The Handmaid's Tale #1",
       "title": "The Handmaid’s Tale",
       "published": 1985,
-      "read": "",
+      "read": "?",
       "tags": [],
       "pages": 314,
       "language": "ENG"
@@ -2596,7 +2597,7 @@
       "series": "",
       "title": "Stories of Your Life and Others",
       "published": 2002,
-      "read": "",
+      "read": "?",
       "tags": [],
       "pages": 281,
       "language": "ENG"
@@ -2606,7 +2607,7 @@
       "series": "",
       "title": "Trigger Warning: Short Fictions and Disturbances",
       "published": 2015,
-      "read": "",
+      "read": "?",
       "tags": [],
       "pages": 310,
       "language": ""
@@ -2638,7 +2639,7 @@
       "series": "",
       "title": "Martian Time-Slip",
       "published": 1964,
-      "read": "",
+      "read": "?",
       "tags": [],
       "pages": 262,
       "language": ""
@@ -2648,7 +2649,7 @@
       "series": "Hitchhiker's Guide to the Galaxy #5",
       "title": "Mostly Harmless",
       "published": 1992,
-      "read": "",
+      "read": "?",
       "tags": [],
       "pages": 240,
       "language": ""
@@ -2658,7 +2659,7 @@
       "series": "",
       "title": "The Little Prince",
       "published": 1943,
-      "read": "",
+      "read": "?",
       "tags": [],
       "pages": 96,
       "language": ""
@@ -2692,7 +2693,7 @@
       "series": "",
       "title": "Prelude to Foundation",
       "published": 1988,
-      "read": "",
+      "read": "?",
       "tags": [],
       "pages": 464,
       "language": ""
@@ -2702,7 +2703,7 @@
       "series": "",
       "title": "Flow My Tears, the Policeman Said",
       "published": 1974,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi"
       ],
@@ -2739,7 +2740,7 @@
       "series": "",
       "title": "God's Grace",
       "published": 1982,
-      "read": "",
+      "read": "?",
       "tags": [
         "post-apocalyptic"
       ],
@@ -2751,7 +2752,7 @@
       "series": "Watchmen #1-12",
       "title": "Watchmen",
       "published": 1987,
-      "read": "",
+      "read": "?",
       "tags": [
         "comic"
       ],
@@ -2763,7 +2764,7 @@
       "series": "Culture #1",
       "title": "Consider Phlebas",
       "published": 1987,
-      "read": "",
+      "read": "?",
       "tags": [],
       "pages": 467,
       "language": "HUN"
@@ -2783,7 +2784,7 @@
       "series": "",
       "title": "Do Androids Dream of Electric Sheep?",
       "published": 1968,
-      "read": "",
+      "read": "?",
       "tags": [],
       "pages": 244,
       "language": "HUN"
@@ -2792,7 +2793,7 @@
       "title": "A tizennégy karátos autó",
       "author": "Rejtő Jenő",
       "published": 1940,
-      "read": "",
+      "read": "?",
       "tags": [
         ""
       ],
@@ -2802,7 +2803,7 @@
       "title": "The Call of Cthulhu and Other Weird Stories",
       "author": "H. P. Lovecraft",
       "published": 1999,
-      "read": "",
+      "read": "?",
       "tags": [
         "horror",
         "cosmic horror",
@@ -2815,7 +2816,7 @@
       "author": "Arthur C. Clarke",
       "published": 1957,
       "pages": 224,
-      "read": "",
+      "read": "?",
       "language": "HUN",
       "tags": [
         "scifi"
@@ -2829,7 +2830,7 @@
       "series": "",
       "title": "Roadside Picnic",
       "published": 1972,
-      "read": "",
+      "read": "?",
       "tags": [
         "scifi"
       ],
@@ -2879,7 +2880,7 @@
       "series": "Harry Potter #5",
       "title": "Harry Potter and the Order of the Phoenix",
       "published": 2003,
-      "read": "",
+      "read": "?",
       "tags": [
         "YA",
         "fantasy",
@@ -2942,7 +2943,7 @@
       "series": "Harry Potter #3",
       "title": "Harry Potter and the Prisoner of Azkaban",
       "published": 1999,
-      "read": "",
+      "read": "?",
       "tags": [
         "YA",
         "fantasy",
@@ -2955,7 +2956,7 @@
       "series": "Harry Potter #2",
       "title": "Harry Potter and the Chamber of Secrets",
       "published": 1998,
-      "read": "",
+      "read": "?",
       "tags": [
         "YA",
         "fantasy",
@@ -2980,7 +2981,7 @@
     {
       "title": "The Old Man and the Sea",
       "author": "Ernest Hemingway",
-      "read": "",
+      "read": "?",
       "published": 1952,
       "pages": 127,
       "tags": [
@@ -2993,7 +2994,7 @@
       "series": "Ábel #3",
       "title": "Ábel Amerikában",
       "published": 1934,
-      "read": "",
+      "read": "?",
       "tags": [
         ""
       ],
@@ -3004,7 +3005,7 @@
       "series": "Ábel #2",
       "title": "Ábel az országban",
       "published": 1933,
-      "read": "",
+      "read": "?",
       "tags": [
         ""
       ],
@@ -3015,7 +3016,7 @@
       "series": "Ábel #1",
       "title": "Ábel a rengetegben",
       "published": 1932,
-      "read": "",
+      "read": "?",
       "tags": [
         ""
       ],
@@ -3026,7 +3027,7 @@
       "series": "",
       "title": "Kincskereső kisködmön",
       "published": 1918,
-      "read": "",
+      "read": "?",
       "tags": [
         "YA"
       ],
@@ -3036,7 +3037,7 @@
       "title": "The Little Prince",
       "author": "Antoine de Saint-Exupéry",
       "published": 1943,
-      "read": "",
+      "read": "?",
       "tags": [
         ""
       ]
