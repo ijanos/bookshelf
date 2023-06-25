@@ -2,6 +2,15 @@
   "$schema": "./bookshelf.schema.json",
   "books": [
     {
+      "title": "Stranger in a Strange Land",
+      "author": "Robert A. Heinlein",
+      "read": "",
+      "published": 1961,
+      "tags": [
+        "scifi"
+      ]
+    },
+    {
       "title": "The Stars My Destination",
       "author": "Alfred Bester",
       "read": "2023-06-21",
@@ -3019,6 +3028,16 @@
       "read": "?",
       "tags": [
         ""
+      ],
+      "language": "HUN"
+    },
+    {
+      "title": "20,000 Leagues under the Sea",
+      "author": "Jules Verne",
+      "published": 1870,
+      "read": "?",
+      "tags": [
+        "scifi"
       ],
       "language": "HUN"
     },
