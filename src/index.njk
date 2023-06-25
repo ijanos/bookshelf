@@ -29,7 +29,7 @@ description: ""
             {% for book in bookshelf.books %}
             <tr class="border-b h-7 hover:bg-gray-100" x-show="$el.textContent.toLowerCase().includes(search.toLowerCase())">
               <td class="hidden sm:table-cell">{{ book.author }}</td>
-              <td class="font-medium text-gray-900">{{ book.title | title }}</td>
+              <td class="font-medium text-gray-900">{{ book.title }}</td>
               <td class="hidden sm:table-cell">{{ book.series }}</td>
               <td class="font-mono text-center whitespace-nowrap">{% if book.read %} {{ book.read }} {% else %} 📖 {% endif %}</td>
               <td class="hidden px-3 font-mono text-right whitespace-nowrap sm:table-cell">{{ book.published }}</td>
