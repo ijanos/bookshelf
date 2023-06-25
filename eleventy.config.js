@@ -23,6 +23,8 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
 
+  eleventyConfig.addPassthroughCopy({ "src/favicon/*": "/" });
+
   return {
     dir: {
       input: 'src',
