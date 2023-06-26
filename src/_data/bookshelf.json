@@ -5,10 +5,12 @@
       "title": "Stranger in a Strange Land",
       "author": "Robert A. Heinlein",
       "read": "",
+      "pages": 408,
       "published": 1961,
       "tags": [
         "scifi"
-      ]
+      ],
+      "language": "ENG"
     },
     {
       "title": "The Stars My Destination",
@@ -18,7 +20,8 @@
         "scifi"
       ],
       "pages": 232,
-      "published": 1956
+      "published": 1956,
+      "language": "ENG"
     },
     {
       "title": "The Frugal Wizard’s Handbook for Surviving Medieval England",
@@ -28,7 +31,8 @@
       "tags": [
         "scifi",
         "isekai"
-      ]
+      ],
+      "language": "ENG"
     },
     {
       "title": "The Peripheral",
@@ -1181,6 +1185,57 @@
       "language": "ENG"
     },
     {
+      "author": "Margaret Atwood",
+      "series": "The Handmaid's Tale #1",
+      "title": "The Handmaid’s Tale",
+      "published": 1985,
+      "read": "2017",
+      "tags": [
+        "dystopian"
+      ],
+      "pages": 314,
+      "language": "ENG"
+    },
+    {
+      "author": "Hannu Rajaniemi",
+      "series": "Jean le Flambeur #3",
+      "title": "The Causal Angel",
+      "published": 2014,
+      "read": "2017",
+      "tags": [
+        "posthuman",
+        "scifi"
+      ],
+      "pages": 292,
+      "language": "ENG"
+    },
+    {
+      "author": "Hannu Rajaniemi",
+      "series": "Jean le Flambeur #2",
+      "title": "The Fractal Prince",
+      "published": 2012,
+      "read": "2017",
+      "tags": [
+        "posthuman",
+        "scifi"
+      ],
+      "pages": 320,
+      "language": "ENG"
+    },
+    {
+      "author": "Hannu Rajaniemi",
+      "series": "Jean le Flambeur #1",
+      "title": "The Quantum Thief",
+      "published": 2010,
+      "read": "2017",
+      "tags": [
+        "posthuman",
+        "scifi"
+      ],
+      "pages": 336,
+      "language": "ENG"
+    },
+    {
       "author": "Ted Chiang",
       "series": "",
       "title": "The Lifecycle of Software Objects",
@@ -1331,45 +1386,6 @@
       "read": "2016-02-28",
       "tags": [],
       "pages": 382,
-      "language": "ENG"
-    },
-    {
-      "author": "Hannu Rajaniemi",
-      "series": "Jean le Flambeur #3",
-      "title": "The Causal Angel",
-      "published": 2014,
-      "read": "?",
-      "tags": [
-        "posthuman",
-        "scifi"
-      ],
-      "pages": 292,
-      "language": "ENG"
-    },
-    {
-      "author": "Hannu Rajaniemi",
-      "series": "Jean le Flambeur #2",
-      "title": "The Fractal Prince",
-      "published": 2012,
-      "read": "?",
-      "tags": [
-        "posthuman",
-        "scifi"
-      ],
-      "pages": 320,
-      "language": "ENG"
-    },
-    {
-      "author": "Hannu Rajaniemi",
-      "series": "Jean le Flambeur #1",
-      "title": "The Quantum Thief",
-      "published": 2010,
-      "read": "?",
-      "tags": [
-        "posthuman",
-        "scifi"
-      ],
-      "pages": 336,
       "language": "ENG"
     },
     {
@@ -2592,16 +2608,6 @@
       "language": "ENG"
     },
     {
-      "author": "Margaret Atwood",
-      "series": "The Handmaid's Tale #1",
-      "title": "The Handmaid’s Tale",
-      "published": 1985,
-      "read": "?",
-      "tags": [],
-      "pages": 314,
-      "language": "ENG"
-    },
-    {
       "author": "Ted Chiang",
       "series": "",
       "title": "Stories of Your Life and Others",
@@ -2651,16 +2657,6 @@
       "read": "?",
       "tags": [],
       "pages": 262,
-      "language": ""
-    },
-    {
-      "author": "Douglas Adams",
-      "series": "Hitchhiker's Guide to the Galaxy #5",
-      "title": "Mostly Harmless",
-      "published": 1992,
-      "read": "?",
-      "tags": [],
-      "pages": 240,
       "language": ""
     },
     {
@@ -2728,6 +2724,54 @@
       "read": "2005-07-10",
       "tags": [
         "scifi"
+      ],
+      "language": "HUN"
+    },
+    {
+      "author": "Douglas Adams",
+      "series": "Hitchhiker's Guide to the Galaxy #5",
+      "title": "Mostly Harmless",
+      "published": 1992,
+      "read": "2005-06-10",
+      "tags": [
+        "scifi",
+        "humor"
+      ],
+      "language": "HUN"
+    },
+    {
+      "author": "Douglas Adams",
+      "series": "Hitchhiker's Guide to the Galaxy #4",
+      "title": "So Long, and Thanks for All the Fish",
+      "published": 1984,
+      "read": "2005-06-10",
+      "tags": [
+        "scifi",
+        "humor"
+      ],
+      "language": "HUN"
+    },
+    {
+      "author": "Douglas Adams",
+      "series": "Hitchhiker's Guide to the Galaxy #3",
+      "title": "Life, the Universe and Everything",
+      "published": 1982,
+      "read": "2005-06-10",
+      "tags": [
+        "scifi",
+        "humor"
+      ],
+      "language": "HUN"
+    },
+    {
+      "author": "Douglas Adams",
+      "series": "Hitchhiker's Guide to the Galaxy #2",
+      "title": "The Restaurant at the End of the Universe",
+      "published": 1980,
+      "read": "2005-06-10",
+      "tags": [
+        "scifi",
+        "humor"
       ],
       "language": "HUN"
     },
