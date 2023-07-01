@@ -274,18 +274,19 @@
     },
     {
       "author": "Adrian Tchaikovsky",
-      "series": "",
       "title": "Cage of souls",
       "published": 2019,
       "read": "2022-06-11",
       "tags": [
-        "scifi"
+        "scifi",
+        "dystopian",
+        "dying-earth"
       ],
       "language": "ENG"
     },
     {
       "author": "Dan Simmons",
-      "series": "",
+      "series": "Hyperion Cantos #4.5",
       "title": "Orphans of the helix",
       "published": 1999,
       "read": "2022-05-02",
@@ -298,7 +299,7 @@
     {
       "author": "Christopher Paolini",
       "series": "Fractalverse #1",
-      "title": "To sleep in a sea of stars",
+      "title": "To Sleep in a Sea of Stars",
       "published": 2020,
       "read": "2022-04-27",
       "tags": [
@@ -1367,6 +1368,16 @@
       "language": "ENG"
     },
     {
+      "author": "Ted Chiang",
+      "series": "",
+      "title": "Stories of Your Life and Others",
+      "published": 2002,
+      "read": "2016",
+      "tags": [],
+      "pages": 281,
+      "language": "ENG"
+    },
+    {
       "author": "Marina Dyachenko",
       "series": "Метаморфозы #2",
       "title": "Цифровой, или Brevis est",
@@ -1591,6 +1602,20 @@
       "language": "ENG"
     },
     {
+      "author": "Harlan Ellison",
+      "series": "",
+      "title": "I Have No Mouth, and I Must Scream",
+      "published": 1967,
+      "read": "2014-08-23",
+      "tags": [
+        "hugo-winner",
+        "horror",
+        "scifi"
+      ],
+      "pages": 20,
+      "language": "ENG"
+    },
+    {
       "author": "Gene Wolfe",
       "series": "The Book of the New Sun #5",
       "title": "The Urth of the New Sun",
@@ -1626,6 +1651,7 @@
       ],
       "language": "ENG"
     },
+
     {
       "author": "Mary Doria Russell",
       "series": "The Sparrow #1",
@@ -1726,6 +1752,31 @@
       ],
       "language": "ENG"
     },
+
+    {
+      "author": "Gene Wolfe",
+      "series": "The Book of the New Sun #2",
+      "title": "The Claw of the Conciliator",
+      "published": 1981,
+      "read": "2013-06-30",
+      "tags": [
+        "scifi"
+      ],
+      "pages": 303,
+      "language": "ENG"
+    },
+    {
+      "author": "Gene Wolfe",
+      "series": "The Book of the New Sun #1",
+      "title": "The Shadow of the Torturer",
+      "published": 1980,
+      "read": "2013-06-30",
+      "tags": [
+        "scifi"
+      ],
+      "pages": 262,
+      "language": "ENG"
+    },
     {
       "author": "Neil Gaiman",
       "series": "",
@@ -1785,20 +1836,6 @@
         "historical fiction"
       ],
       "pages": 368,
-      "language": "ENG"
-    },
-    {
-      "author": "Harlan Ellison",
-      "series": "",
-      "title": "I Have No Mouth, and I Must Scream",
-      "published": 1967,
-      "read": "2014-08-23",
-      "tags": [
-        "hugo-winner",
-        "horror",
-        "scifi"
-      ],
-      "pages": 20,
       "language": "ENG"
     },
     {
@@ -2283,7 +2320,7 @@
     },
     {
       "author": "Arthur C. Clarke",
-      "series": "",
+      "series": "Space Odyssey #1",
       "title": "2001: A Space Odyssey",
       "published": 1986,
       "read": "?",
@@ -2292,19 +2329,6 @@
       ],
       "pages": 297,
       "language": "ENG"
-    },
-    {
-      "author": "Iain M. Banks",
-      "series": "Culture #6",
-      "title": "Inversions",
-      "published": 1998,
-      "read": "2010-10-25",
-      "tags": [
-        "scifi",
-        "space opera"
-      ],
-      "pages": 343,
-      "language": ""
     },
     {
       "author": "Iain M. Banks",
@@ -2318,7 +2342,6 @@
     },
     {
       "author": "Robert A. Heinlein",
-      "series": "",
       "title": "Starship Troopers",
       "published": 1959,
       "read": "2011-03-31",
@@ -2331,8 +2354,20 @@
       "language": "ENG"
     },
     {
+      "author": "Iain M. Banks",
+      "series": "Culture #6",
+      "title": "Inversions",
+      "published": 1998,
+      "read": "2010-10-25",
+      "tags": [
+        "scifi",
+        "space opera"
+      ],
+      "pages": 343,
+      "language": "HUN"
+    },
+    {
       "author": "Kim Stanley Robinson",
-      "series": "",
       "title": "The Years of Rice and Salt",
       "published": 2002,
       "pages": 658,
@@ -2345,7 +2380,6 @@
     },
     {
       "author": "Philip K. Dick",
-      "series": "",
       "title": "Radio Free Albemuth",
       "published": 1986,
       "read": "2009-08-06",
@@ -2356,10 +2390,10 @@
     },
     {
       "author": "Szergej Lukjanyenko",
-      "series": "",
+      "series": "Star Shadow #2",
       "title": "Ugrás az ismeretlenbe",
       "published": 2004,
-      "read": "?",
+      "read": "2010",
       "tags": [
         "scifi"
       ],
@@ -2367,10 +2401,10 @@
     },
     {
       "author": "Szergej Lukjanyenko",
-      "series": "",
+      "series": "Star Shadow #1",
       "title": "Ugrás az űrbe",
       "published": 2004,
-      "read": "?",
+      "read": "2010",
       "tags": [
         "scifi"
       ],
@@ -2561,7 +2595,7 @@
       "series": "",
       "title": "The Wasp Factory",
       "published": 1984,
-      "read": "?",
+      "read": "2006",
       "tags": [
         "fiction",
         "thriller"
@@ -2580,6 +2614,19 @@
         "fantasy"
       ],
       "language": "HUN"
+    },
+    {
+      "author": "J. K. Rowling",
+      "series": "Harry Potter #7",
+      "title": "Harry Potter and the Deathly Hallows",
+      "published": 2007,
+      "read": "2007",
+      "tags": [
+        "YA",
+        "fantasy",
+        "magic"
+      ],
+      "language": "ENG"
     },
     {
       "author": "Szergej Gyacsenko - Marina Gyacsenko",
@@ -2605,16 +2652,6 @@
         "short-stories"
       ],
       "pages": 230,
-      "language": "ENG"
-    },
-    {
-      "author": "Ted Chiang",
-      "series": "",
-      "title": "Stories of Your Life and Others",
-      "published": 2002,
-      "read": "?",
-      "tags": [],
-      "pages": 281,
       "language": "ENG"
     },
     {
@@ -2656,40 +2693,6 @@
       "published": 1964,
       "read": "?",
       "tags": [],
-      "pages": 262,
-      "language": ""
-    },
-    {
-      "author": "Antoine de Saint-Exupéry",
-      "series": "",
-      "title": "The Little Prince",
-      "published": 1943,
-      "read": "?",
-      "tags": [],
-      "pages": 96,
-      "language": ""
-    },
-    {
-      "author": "Gene Wolfe",
-      "series": "The Book of the New Sun #2",
-      "title": "The Claw of the Conciliator",
-      "published": 1981,
-      "read": "2013-06-30",
-      "tags": [
-        "scifi"
-      ],
-      "pages": 303,
-      "language": ""
-    },
-    {
-      "author": "Gene Wolfe",
-      "series": "The Book of the New Sun #1",
-      "title": "The Shadow of the Torturer",
-      "published": 1980,
-      "read": "2013-06-30",
-      "tags": [
-        "scifi"
-      ],
       "pages": 262,
       "language": ""
     },
@@ -2790,7 +2793,6 @@
     },
     {
       "author": "Bernard Malamud",
-      "series": "",
       "title": "God's Grace",
       "published": 1982,
       "read": "?",
@@ -2798,16 +2800,18 @@
         "post-apocalyptic"
       ],
       "pages": 240,
-      "language": ""
+      "language": "HUN"
     },
     {
       "author": "Alan Moore",
       "series": "Watchmen #1-12",
       "title": "Watchmen",
       "published": 1987,
-      "read": "?",
+      "read": "2008",
       "tags": [
-        "comic"
+        "comic",
+        "scifi",
+        "superheroes"
       ],
       "pages": 416,
       "language": "ENG"
@@ -2818,17 +2822,22 @@
       "title": "Consider Phlebas",
       "published": 1987,
       "read": "?",
-      "tags": [],
+      "tags": [
+        "scifi",
+        "space opera"
+      ],
       "pages": 467,
       "language": "HUN"
     },
     {
       "author": "Philip K. Dick",
-      "series": "",
+      "series": "VALIS Trilogy #1",
       "title": "VALIS",
       "published": 1981,
       "read": "2004",
-      "tags": [],
+      "tags": [
+        "scifi"
+      ],
       "pages": 242,
       "language": "HUN"
     },
@@ -2856,7 +2865,7 @@
       "title": "The Call of Cthulhu and Other Weird Stories",
       "author": "H. P. Lovecraft",
       "published": 1999,
-      "read": "?",
+      "read": "2004?",
       "tags": [
         "horror",
         "cosmic horror",
@@ -2892,19 +2901,6 @@
     },
     {
       "author": "J. K. Rowling",
-      "series": "Harry Potter #7",
-      "title": "Harry Potter and the Deathly Hallows",
-      "published": 2007,
-      "read": "2007",
-      "tags": [
-        "YA",
-        "fantasy",
-        "magic"
-      ],
-      "language": "ENG"
-    },
-    {
-      "author": "J. K. Rowling",
       "series": "Harry Potter #6",
       "title": "Harry Potter and the Half-Blood Prince",
       "published": 2005,
@@ -2933,7 +2929,7 @@
       "series": "Harry Potter #5",
       "title": "Harry Potter and the Order of the Phoenix",
       "published": 2003,
-      "read": "?",
+      "read": "2003",
       "tags": [
         "YA",
         "fantasy",
@@ -2996,7 +2992,7 @@
       "series": "Harry Potter #3",
       "title": "Harry Potter and the Prisoner of Azkaban",
       "published": 1999,
-      "read": "?",
+      "read": "2000",
       "tags": [
         "YA",
         "fantasy",
@@ -3009,7 +3005,7 @@
       "series": "Harry Potter #2",
       "title": "Harry Potter and the Chamber of Secrets",
       "published": 1998,
-      "read": "?",
+      "read": "2000",
       "tags": [
         "YA",
         "fantasy",
@@ -3103,7 +3099,8 @@
       "read": "?",
       "tags": [
         ""
-      ]
+      ],
+      "language": "HUN"
     }
   ]
 }
