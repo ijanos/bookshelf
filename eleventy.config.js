@@ -23,7 +23,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
 
-  eleventyConfig.addPassthroughCopy({ "src/favicon/*": "/" });
+  eleventyConfig.addPassthroughCopy({
+    "src/favicon/*": "/",
+    "node_modules/alpinejs/dist/cdn.min.js": "/alpine.min.js"
+  });
 
   return {
     dir: {
