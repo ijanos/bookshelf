@@ -1553,6 +1553,16 @@
       "language": "ENG"
     },
     {
+      "author": "Robert A. Heinlein",
+      "series": "",
+      "title": "All You Zombies",
+      "published": 1959,
+      "read": "2014-12-22",
+      "tags": [],
+      "pages": 13,
+      "language": "ENG"
+    },
+    {
       "author": "Dan Simmons",
       "series": "",
       "title": "Song of Kali",
@@ -1802,6 +1812,19 @@
       "language": "ENG"
     },
     {
+      "author": "Peter Watts",
+      "series": "Sunflowers cycle",
+      "title": "The Island and Other Stories",
+      "published": 2009,
+      "read": "2013-04-13",
+      "pages": 76,
+      "tags": [
+        "scifi",
+        "hugo-winner"
+      ],
+      "language": "ENG"
+    },
+    {
       "author": "Dan Simmons",
       "series": "Ilium #2",
       "title": "Olympos",
@@ -2044,19 +2067,6 @@
     },
     {
       "author": "Peter Watts",
-      "series": "Sunflowers cycle",
-      "title": "The Island and Other Stories",
-      "published": 2009,
-      "read": "2013-04-13",
-      "pages": 76,
-      "tags": [
-        "scifi",
-        "hugo-winner"
-      ],
-      "language": "ENG"
-    },
-    {
-      "author": "Peter Watts",
       "series": "Firefall #1",
       "title": "Blindsight",
       "published": 2006,
@@ -2084,10 +2094,10 @@
     {
       "author": "Philip K. Dick",
       "series": "",
-      "title": "A Scanner Darkly",
-      "published": 1977,
-      "pages": 219,
-      "read": "2005",
+      "title": "The Game-Players of Titan",
+      "published": 1963,
+      "read": "2010",
+      "pages": 240,
       "tags": [
         "scifi"
       ],
@@ -2096,10 +2106,10 @@
     {
       "author": "Philip K. Dick",
       "series": "",
-      "title": "The Game-Players of Titan",
-      "published": 1963,
-      "read": "2010",
-      "pages": 240,
+      "title": "A Scanner Darkly",
+      "published": 1977,
+      "pages": 219,
+      "read": "2005",
       "tags": [
         "scifi"
       ],
@@ -2260,16 +2270,6 @@
       "language": "HUN"
     },
     {
-      "author": "Robert A. Heinlein",
-      "series": "",
-      "title": "All You Zombies",
-      "published": 1959,
-      "read": "2014-12-22",
-      "tags": [],
-      "pages": 13,
-      "language": "ENG"
-    },
-    {
       "author": "Iain M. Banks",
       "series": "",
       "title": "Feersum Endjinn",
@@ -2424,6 +2424,20 @@
       "language": "HUN"
     },
     {
+      "author": "Alan Moore",
+      "series": "Watchmen #1-12",
+      "title": "Watchmen",
+      "published": 1987,
+      "read": "2008",
+      "tags": [
+        "comic",
+        "scifi",
+        "superheroes"
+      ],
+      "pages": 416,
+      "language": "ENG"
+    },
+    {
       "author": "Arkady and Boris Strugatsky",
       "series": "Максим Каммерер #2",
       "title": "Beetle in the Anthill",
@@ -2546,7 +2560,7 @@
       "series": "",
       "title": "Something Wicked This Way Comes",
       "published": 1963,
-      "read": "?",
+      "read": "2008?",
       "tags": [
         "fantasy"
       ],
@@ -2803,20 +2817,6 @@
       "language": "HUN"
     },
     {
-      "author": "Alan Moore",
-      "series": "Watchmen #1-12",
-      "title": "Watchmen",
-      "published": 1987,
-      "read": "2008",
-      "tags": [
-        "comic",
-        "scifi",
-        "superheroes"
-      ],
-      "pages": 416,
-      "language": "ENG"
-    },
-    {
       "author": "Iain M. Banks",
       "series": "Culture #1",
       "title": "Consider Phlebas",
@@ -2827,6 +2827,17 @@
         "space opera"
       ],
       "pages": 467,
+      "language": "HUN"
+    },
+    {
+      "title": "The Inquisition War",
+      "author": "Ian Watson",
+      "series": "The Inquisition War #1-3",
+      "read": "2004?",
+      "tags": [
+        "scifi"
+      ],
+      "published": 2003,
       "language": "HUN"
     },
     {
@@ -2843,12 +2854,25 @@
     },
     {
       "author": "Philip K. Dick",
-      "series": "",
       "title": "Do Androids Dream of Electric Sheep?",
       "published": 1968,
       "read": "?",
-      "tags": [],
+      "tags": [
+        "scifi"
+      ],
       "pages": 244,
+      "language": "HUN"
+    },
+    {
+      "title": "Aliens vs. Predator: Prey",
+      "author": ["Steve Perry", "S.D. Perry"],
+      "read": "2003?",
+      "series": "Aliens vs. Predator #1",
+      "tags": [
+        "scifi"
+      ],
+      "published": 1994,
+      "pages": 262,
       "language": "HUN"
     },
     {
@@ -3025,6 +3049,19 @@
         "fantasy",
         "magic"
       ],
+      "language": "HUN"
+    },
+    {
+      "title": "Star Wars: The Phantom Menace",
+      "series": "Star Wars Novelizations #1",
+      "author": "Terry Brooks",
+      "read": "1999",
+      "tags": [
+        "scifi",
+        "space opera",
+        "novelization"
+      ],
+      "published": 1999,
       "language": "HUN"
     },
     {
