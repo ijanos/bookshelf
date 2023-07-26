@@ -1,0 +1,45 @@
+{% macro table(collection) %}
+<div x-data="{ search: '',
+                   visible: $refs.tbody.querySelectorAll('tr').length,
+                   update() { this.visible = Array.from($refs.tbody.querySelectorAll('tr')).filter((tr) => tr.style.display !== 'none').length;
+                  }
+                 }">
+    <input type="text"
+           x-model="search"
+           x-on:input.debounce.50ms="update()"
+           class="w-full p-1 my-2 text-xs text-gray-900 border border-gray-300 rounded-lg focus:text-base bg-gray-50"
+          placeholder="search">
+
+      <div class="relative overflow-x-auto rounded-lg">
+        <table id="bookshelf" class="w-full text-sm text-left text-gray-500">
+            <thead class="h-6 text-gray-700 uppercase text-s bg-gray-50">
+                <tr>
+                    <th scope="col" class="hidden px-4 sm:table-cell">Author</th>
+                    <th scope="col" class="px-4">Title</th>
+                    <th scope="col" class="hidden px-4 sm:table-cell">Series</th>
+                    <th scope="col" class="px-4">Read</th>
+                    <th scope="col" class="hidden px-4 text-right sm:table-cell">Published</th>
+                </tr>
+            </thead>
+            <tbody x-ref="tbody">
+            {% for book in collection %}
+            <tr class="border-b h-7 hover:bg-gray-100" x-show="$el.textContent.toLowerCase().includes(search.toLowerCase())">
+              <td class="hidden sm:table-cell">{{ book.author }}</td>
+              <td class="font-medium text-gray-900">{{ book.title }}</td>
+              <td class="hidden sm:table-cell">{{ book.series }}</td>
+              <td class="font-mono text-center whitespace-nowrap">{% if book.read %} {{ book.read }} {% else %} 📖 {% endif %}</td>
+              <td class="hidden px-3 font-mono text-right whitespace-nowrap sm:table-cell">{{ book.published }}</td>
+            </tr>
+            {% endfor %}
+            </tbody>
+            <tfoot class="h-6 text-gray-500 text-s bg-gray-50">
+            <tr>
+              <th colspan="5">
+              <span class="text-gray-900"> <span x-text="visible"></span> books</span> out of <span x-text="$refs.tbody.querySelectorAll('tr').length"></span>
+              </th>
+            </tr>
+            </tfoot>
+        </table>
+    </div>
+</div>
+{% endmacro %}
