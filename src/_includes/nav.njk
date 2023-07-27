@@ -5,10 +5,14 @@
         <a href="/"><span class="font-light">my</span><span class="font-semibold">reads</span></a>
       </div>
       <div class="flex text-xs lg:text-base lg:space-x-4">
-            <a href="/" class="px-2 py-2 font-medium text-white bg-gray-900 rounded-md" aria-current="page">books</a>
-            <a href="#" class="px-2 py-2 font-medium text-gray-300 rounded-md hover:bg-gray-700 hover:text-white">comics</a>
-            <a href="#" class="px-2 py-2 font-medium text-gray-300 rounded-md hover:bg-gray-700 hover:text-white">stats</a>
-            <a href="#" class="px-2 py-2 font-medium text-gray-300 rounded-md hover:bg-gray-700 hover:text-white">covers</a>
+            <a href="/" class="px-2 py-2 font-medium
+             {% if page.url == "/" %}  text-white bg-gray-900  {% else %} text-gray-800 {% endif %}
+             rounded-md hover:bg-gray-700" aria-current="page">books</a>
+            <a href="/comics" class="px-2 py-2 font-medium
+             {% if page.url == "/comics/" %}  text-white bg-gray-900  {% else %} text-gray-800 {% endif %}
+              rounded-md hover:bg-gray-700 hover:text-white">comics</a>
+            {# <a href="#" class="px-2 py-2 font-medium text-gray-300 rounded-md hover:bg-gray-700 hover:text-white">stats</a>
+            <a href="#" class="px-2 py-2 font-medium text-gray-300 rounded-md hover:bg-gray-700 hover:text-white">covers</a> #}
       </div>
       </div>
       </div>
