@@ -1237,7 +1237,7 @@
     },
     {
       "author": "Neil Gaiman",
-      "series": "",
+      "series": "The Sandman #0",
       "title": "Sandman: Overture",
       "published": 2015,
       "read": "2016-12-01",
@@ -2287,18 +2287,6 @@
       "pages": 368
     },
     {
-      "author": "Iain M. Banks",
-      "series": "Culture #3",
-      "title": "Use of Weapons",
-      "published": 1990,
-      "read": "?",
-      "tags": [
-        "scifi"
-      ],
-      "pages": 411,
-      "language": "HUN"
-    },
-    {
       "author": "Philip K. Dick",
       "series": "",
       "title": "The Three Stigmata of Palmer Eldritch",
@@ -2768,6 +2756,18 @@
       "tags": [],
       "pages": 310,
       "language": ""
+    },
+    {
+      "author": "Iain M. Banks",
+      "series": "Culture #3",
+      "title": "Use of Weapons",
+      "published": 1990,
+      "read": "2006",
+      "tags": [
+        "scifi"
+      ],
+      "pages": 411,
+      "language": "HUN"
     },
     {
       "author": "Iain Banks",
