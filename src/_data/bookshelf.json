@@ -2,6 +2,17 @@
   "$schema": "./bookshelf.schema.json",
   "books": [
     {
+      "title": "Yumi and the Nightmare Painter",
+      "author": "Brandon Sanderson",
+      "read": "",
+      "pages": 474,
+      "published": 2023,
+      "tags": [
+        "fantasy"
+      ],
+      "language": "ENG"
+    },
+    {
       "title": "Stranger in a Strange Land",
       "author": "Robert A. Heinlein",
       "read": "2023-07-31",
