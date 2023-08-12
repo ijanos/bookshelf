@@ -2,9 +2,21 @@
   "$schema": "./bookshelf.schema.json",
   "books": [
     {
+      "title": "Valuable Humans in Transit and Other Stories",
+      "author": "qntm",
+      "read": "2023-08-12",
+      "tags": [
+        "scifi",
+        "short-stories"
+      ],
+      "published": 2022,
+      "language": "ENG",
+      "pages": 101
+    },
+    {
       "title": "Yumi and the Nightmare Painter",
       "author": "Brandon Sanderson",
-      "read": "",
+      "read": "2023-08-09",
       "pages": 474,
       "published": 2023,
       "tags": [
@@ -205,7 +217,7 @@
     {
       "author": "Brandon Sanderson",
       "series": "",
-      "title": "The eleventh metal",
+      "title": "The Eleventh Metal",
       "published": 2012,
       "read": "2022-09-22",
       "tags": [
