@@ -2,6 +2,29 @@
   "$schema": "./bookshelf.schema.json",
   "books": [
     {
+      "title": "The Fisherman",
+      "author": "John Langan",
+      "read": "2023-09-10",
+      "pages": 266,
+      "tags": [
+        "horror",
+        "lovecraftian"
+      ],
+      "published": 2016,
+      "language": "ENG"
+    },
+    {
+      "title": "Homo sapiens declared extinct",
+      "author": "Bruce Sterling",
+      "read": "2023-08-13",
+      "tags": [
+        "scifi",
+        "short"
+      ],
+      "published": 1999,
+      "language": "ENG"
+    },
+    {
       "title": "Valuable Humans in Transit and Other Stories",
       "author": "qntm",
       "read": "2023-08-12",
