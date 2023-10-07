@@ -2,6 +2,29 @@
   "$schema": "./bookshelf.schema.json",
   "books": [
     {
+      "title": "The Sunlit Man",
+      "author": "Brandon Sanderson",
+      "read": "",
+      "tags": [
+        "fantasy"
+      ],
+      "published": 2023,
+      "language": "ENG"
+    },
+    {
+      "title": "Mona Lisa Overdrive",
+      "author": "William Gibson",
+      "read": "2023-10-07",
+      "tags": [
+        "scifi",
+        "cyberpunk"
+      ],
+      "published": 1988,
+      "pages": 251,
+      "series": "Sprawl #3",
+      "language": "ENG"
+    },
+    {
       "title": "The Fisherman",
       "author": "John Langan",
       "read": "2023-09-10",
