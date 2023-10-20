@@ -2,6 +2,18 @@
   "$schema": "./bookshelf.schema.json",
   "books": [
     {
+      "title": "A Night in the Lonesome October",
+      "author": "Roger Zelazny",
+      "read": "",
+      "pages": 280,
+      "tags": [
+        "fantasy",
+        "horror"
+      ],
+      "published": 1993,
+      "language": "ENG"
+    },
+    {
       "title": "The Sunlit Man",
       "author": "Brandon Sanderson",
       "read": "2023-10-15",
