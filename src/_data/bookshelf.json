@@ -4,7 +4,7 @@
     {
       "title": "A Night in the Lonesome October",
       "author": "Roger Zelazny",
-      "read": "",
+      "read": "2023-10-22",
       "pages": 280,
       "tags": [
         "fantasy",
@@ -138,7 +138,6 @@
     },
     {
       "author": "Susanna Clarke",
-      "series": "",
       "title": "Piranesi",
       "published": 2020,
       "read": "2023-03-14",
@@ -162,7 +161,6 @@
     },
     {
       "author": "Tom Sweterlitsch",
-      "series": "",
       "title": "The Gone World",
       "published": 2018,
       "read": "2023-01-29",
@@ -176,7 +174,6 @@
     },
     {
       "author": "Brandon Sanderson",
-      "series": "",
       "title": "Tress of the Emerald Sea",
       "published": 2023,
       "read": "2023-01-17",
@@ -187,7 +184,6 @@
     },
     {
       "author": "Charles Stross",
-      "series": "",
       "title": "Palimpsest",
       "published": 2011,
       "read": "2022-12-26",
@@ -199,7 +195,6 @@
     },
     {
       "author": "Madeline Miller",
-      "series": "",
       "title": "Galatea",
       "published": 2013,
       "read": "2022-12-20",
@@ -256,7 +251,6 @@
     },
     {
       "author": "Brandon Sanderson",
-      "series": "",
       "title": "Shadows For Silence in the Forests of Hell",
       "published": 2015,
       "read": "2022-09-29",
@@ -268,7 +262,6 @@
     },
     {
       "author": "Brandon Sanderson",
-      "series": "",
       "title": "The Emperor's Soul",
       "published": 2012,
       "read": "2022-09-23",
@@ -280,7 +273,6 @@
     },
     {
       "author": "Brandon Sanderson",
-      "series": "",
       "title": "The Eleventh Metal",
       "published": 2012,
       "read": "2022-09-22",
@@ -303,7 +295,6 @@
     },
     {
       "author": "Neil Gaiman",
-      "series": "",
       "title": "Norse Mythology",
       "published": 2017,
       "read": "2022-08-31",
@@ -314,7 +305,6 @@
     },
     {
       "author": "Greg Egan",
-      "series": "",
       "title": "Dream factory",
       "published": 2022,
       "read": "2022-08-26",
@@ -326,7 +316,6 @@
     },
     {
       "author": "Walter M. Miller Jr.",
-      "series": "",
       "title": "A Canticle for Leibowitz",
       "published": 1959,
       "read": "2022-08-14",
@@ -338,7 +327,6 @@
     },
     {
       "author": "Alaistar Reynolds",
-      "series": "",
       "title": "Eversion",
       "published": 2022,
       "read": "2022-07-07",
@@ -484,7 +472,6 @@
     },
     {
       "author": "Adrian Tchaikovsky",
-      "series": "",
       "title": "Elder Race",
       "published": 2021,
       "read": "2022-06-19",
@@ -544,7 +531,6 @@
     },
     {
       "author": "Madeline Miller",
-      "series": "",
       "title": "Circe",
       "published": 2018,
       "read": "2022-01-30",
@@ -557,7 +543,6 @@
     },
     {
       "author": "Madeline Miller",
-      "series": "",
       "title": "Song of Achilles",
       "published": 2012,
       "read": "2022-01-09",
@@ -888,7 +873,7 @@
       "published": 1969,
       "read": "2020-09-26",
       "tags": [
-        "post-apocalytic",
+        "post-apocalyptic",
         "scifi"
       ],
       "language": "ENG"
@@ -1600,7 +1585,7 @@
       "read": "2015-03-16",
       "tags": [
         "dystopian",
-        "post-apocalytic",
+        "post-apocalyptic",
         "scifi"
       ],
       "pages": 389,
@@ -1932,12 +1917,13 @@
     },
     {
       "author": "Neil Gaiman",
-      "series": "",
       "title": "The Ocean at the End of the Lane",
       "published": 2013,
       "read": "2013-07-08",
       "tags": [
-        ""
+        "fiction",
+        "magical realism",
+        "fantasy"
       ],
       "pages": 181,
       "language": "ENG"
@@ -1993,7 +1979,6 @@
     },
     {
       "author": "Liam Callanan",
-      "series": "",
       "title": "The Cloud Atlas",
       "published": 2004,
       "read": "2013-01-13",
@@ -2006,7 +1991,6 @@
     },
     {
       "author": "Pierre Boulle",
-      "series": "",
       "title": "Planet of the Apes",
       "published": 1963,
       "pages": 276,
@@ -2018,7 +2002,6 @@
     },
     {
       "author": "Iain M. Banks",
-      "series": "",
       "title": "Against a Dark Background",
       "published": 1993,
       "pages": 480,
@@ -2067,7 +2050,6 @@
     },
     {
       "author": "Kurt Vonnegut",
-      "series": "",
       "title": "Cat's Cradle",
       "published": 1963,
       "read": "2012-08-14",
@@ -2094,7 +2076,6 @@
     },
     {
       "author": "Robert A. Heinlein",
-      "series": "",
       "title": "The Moon is a Harsh Mistress",
       "published": 1966,
       "pages": 288,
@@ -2107,13 +2088,13 @@
     },
     {
       "author": "Paolo Bacigalupi",
-      "series": "",
       "title": "The Windup Girl",
       "published": 2009,
       "read": "2012-03-04",
       "tags": [
         "Hugo🥇",
         "biopunk",
+        "dystopian",
         "scifi"
       ],
       "pages": 359,
@@ -2121,7 +2102,6 @@
     },
     {
       "author": "Stanisław Lem",
-      "series": "",
       "title": "Solaris",
       "published": 1961,
       "read": "2012-04-09",
@@ -2133,7 +2113,6 @@
     },
     {
       "author": "Arthur C. Clarke",
-      "series": "",
       "title": "Childhood's End",
       "published": 1953,
       "pages": 224,
@@ -2171,14 +2150,13 @@
     },
     {
       "author": "Cormac McCarthy",
-      "series": "",
       "title": "The Road",
       "published": 2006,
       "read": "2011-03-08",
       "tags": [
         "dystopian",
         "fiction",
-        "post-apocalytic"
+        "post-apocalyptic"
       ],
       "pages": 241,
       "language": "ENG"
@@ -2197,7 +2175,6 @@
     },
     {
       "author": "Neal Stephenson",
-      "series": "",
       "title": "The Diamond Age: Or, A Young Lady's Illustrated Primer",
       "published": 1995,
       "read": "2012-03-03",
@@ -2249,7 +2226,6 @@
     },
     {
       "author": "Philip K. Dick",
-      "series": "",
       "title": "The Game-Players of Titan",
       "published": 1963,
       "read": "2010",
@@ -2263,7 +2239,7 @@
       "title": "The Wake",
       "author": "Neil Gaiman",
       "series": "The Sandman Vol. 10",
-      "read": "2010",
+      "read": "2011",
       "tags": [
         "comic",
         "fantasy"
@@ -2275,7 +2251,7 @@
       "title": "The Kindly Ones",
       "author": "Neil Gaiman",
       "series": "The Sandman Vol. 9",
-      "read": "2010",
+      "read": "2011",
       "tags": [
         "comic",
         "fantasy"
@@ -2287,7 +2263,7 @@
       "title": "Worlds' End",
       "author": "Neil Gaiman",
       "series": "The Sandman Vol. 8",
-      "read": "2010",
+      "read": "2011",
       "tags": [
         "comic",
         "fantasy"
@@ -2299,7 +2275,7 @@
       "title": "Brief Lives",
       "author": "Neil Gaiman",
       "series": "The Sandman Vol. 7",
-      "read": "2010",
+      "read": "2011",
       "tags": [
         "comic",
         "fantasy"
@@ -2311,7 +2287,7 @@
       "title": "Fables & Reflections",
       "author": "Neil Gaiman",
       "series": "The Sandman Vol. 6",
-      "read": "2010",
+      "read": "2011",
       "tags": [
         "comic",
         "fantasy"
@@ -2323,7 +2299,7 @@
       "title": "A Game of You",
       "author": "Neil Gaiman",
       "series": "The Sandman Vol. 5",
-      "read": "2010",
+      "read": "2011",
       "tags": [
         "comic",
         "fantasy"
@@ -2335,7 +2311,7 @@
       "title": "Season of Mists",
       "author": "Neil Gaiman",
       "series": "The Sandman Vol. 4",
-      "read": "2010",
+      "read": "2011",
       "tags": [
         "comic",
         "fantasy"
@@ -2347,7 +2323,7 @@
       "title": "Dream Country",
       "author": "Neil Gaiman",
       "series": "The Sandman Vol. 3",
-      "read": "2010",
+      "read": "2011",
       "tags": [
         "comic",
         "fantasy"
@@ -2359,7 +2335,7 @@
       "title": "The Doll's House",
       "author": "Neil Gaiman",
       "series": "The Sandman Vol. 2",
-      "read": "2010",
+      "read": "2011",
       "tags": [
         "comic",
         "fantasy"
@@ -2371,7 +2347,7 @@
       "title": "Preludes & Nocturnes",
       "author": "Neil Gaiman",
       "series": "The Sandman Vol. 1",
-      "read": "2010",
+      "read": "2011",
       "tags": [
         "comic",
         "fantasy"
@@ -2381,7 +2357,6 @@
     },
     {
       "author": "Philip K. Dick",
-      "series": "",
       "title": "A Scanner Darkly",
       "published": 1977,
       "pages": 219,
@@ -2451,7 +2426,6 @@
     },
     {
       "author": "Arthur C. Clarke",
-      "series": "",
       "title": "The Deep Range",
       "published": 1957,
       "read": "2010",
@@ -2462,7 +2436,6 @@
     },
     {
       "author": "Philip K. Dick",
-      "series": "",
       "title": "The Man in the High Castle",
       "published": 1962,
       "pages": 259,
@@ -2474,7 +2447,6 @@
     },
     {
       "author": "Iain M. Banks",
-      "series": "",
       "title": "The Algebraist",
       "published": 2004,
       "read": "?",
@@ -2499,7 +2471,6 @@
     },
     {
       "author": "Philip K. Dick",
-      "series": "",
       "title": "The Three Stigmata of Palmer Eldritch",
       "published": 1965,
       "read": "?",
@@ -2536,7 +2507,6 @@
     },
     {
       "author": "Iain M. Banks",
-      "series": "",
       "title": "Feersum Endjinn",
       "published": 1994,
       "read": "2011-07-06",
@@ -2548,7 +2518,6 @@
     },
     {
       "author": "Neil Gaiman",
-      "series": "",
       "title": "Fragile Things: Short Fictions and Wonders",
       "published": 2006,
       "read": "2011-05-23",
@@ -2836,7 +2805,6 @@
     },
     {
       "author": "Ray Bradbury",
-      "series": "",
       "title": "Something Wicked This Way Comes",
       "published": 1963,
       "read": "2008?",
@@ -2870,7 +2838,6 @@
     },
     {
       "author": "Philip K. Dick",
-      "series": "",
       "title": "Már megint a felfedezők",
       "published": 1967,
       "read": "?",
@@ -2885,7 +2852,6 @@
         "Arkady Strugatsky",
         "Boris Strugatsky"
       ],
-      "series": "",
       "title": "Prisoners of Power",
       "title-HUN": "Lakott Sziget",
       "published": 1971,
@@ -2897,7 +2863,6 @@
     },
     {
       "author": "Neil Gaiman",
-      "series": "",
       "title": "Anansi boys",
       "published": 2005,
       "pages": 387,
@@ -2909,7 +2874,6 @@
     },
     {
       "author": "Neal Stephenson",
-      "series": "",
       "title": "Snow Crash",
       "published": 1992,
       "read": "2007",
@@ -2947,7 +2911,6 @@
     },
     {
       "author": "Peter Watts",
-      "series": "",
       "title": "Beyond the Rift",
       "published": 1994,
       "read": "?",
@@ -2965,9 +2928,11 @@
       "title": "Trigger Warning: Short Fictions and Disturbances",
       "published": 2015,
       "read": "?",
-      "tags": [],
+      "tags": [
+        "short-stories"
+      ],
       "pages": 310,
-      "language": ""
+      "language": "HUN"
     },
     {
       "title": "Basketball",
@@ -2992,8 +2957,18 @@
       "language": "HUN"
     },
     {
+      "author": "Philip K. Dick",
+      "title": "Martian Time-Slip",
+      "published": 1964,
+      "read": "2006",
+      "tags": [
+        "scifi"
+      ],
+      "pages": 262,
+      "language": "HUN"
+    },
+    {
       "author": "Iain Banks",
-      "series": "",
       "title": "The Wasp Factory",
       "published": 1984,
       "read": "2006",
@@ -3006,7 +2981,6 @@
     },
     {
       "author": "Philip K. Dick",
-      "series": "",
       "title": "Eye in the Sky",
       "published": 1957,
       "pages": 256,
@@ -3018,37 +2992,28 @@
     },
     {
       "author": "Philip K. Dick",
-      "series": "",
       "title": "Ubik",
       "published": 1969,
       "read": "2005-03-06",
-      "tags": [],
+      "tags": [
+        "scifi"
+      ],
       "pages": 288,
       "language": "HUN"
     },
     {
-      "author": "Philip K. Dick",
-      "series": "",
-      "title": "Martian Time-Slip",
-      "published": 1964,
-      "read": "?",
-      "tags": [],
-      "pages": 262,
-      "language": ""
-    },
-    {
       "author": "Isaac Asimov",
-      "series": "",
       "title": "Prelude to Foundation",
       "published": 1988,
       "read": "?",
-      "tags": [],
+      "tags": [
+        "scifi"
+      ],
       "pages": 464,
-      "language": ""
+      "language": "ENG"
     },
     {
       "author": "Philip K. Dick",
-      "series": "",
       "title": "Flow My Tears, the Policeman Said",
       "published": 1974,
       "read": "?",
@@ -3056,11 +3021,10 @@
         "scifi"
       ],
       "pages": 204,
-      "language": ""
+      "language": "HUN"
     },
     {
       "author": "Philip K. Dick",
-      "series": "",
       "title": "Time Out of Joint",
       "published": 1959,
       "pages": 221,
@@ -3135,7 +3099,7 @@
       "author": "Bernard Malamud",
       "title": "God's Grace",
       "published": 1982,
-      "read": "?",
+      "read": "2012",
       "tags": [
         "post-apocalyptic"
       ],
@@ -3159,7 +3123,7 @@
       "title": "The Inquisition War",
       "author": "Ian Watson",
       "series": "The Inquisition War #1-3",
-      "read": "2004?",
+      "read": "2004",
       "tags": [
         "scifi"
       ],
@@ -3210,7 +3174,7 @@
       "published": 1940,
       "read": "?",
       "tags": [
-        ""
+        "humor"
       ],
       "language": "HUN"
     },
@@ -3242,7 +3206,6 @@
         "Arkady Strugatsky",
         "Boris Strugatsky"
       ],
-      "series": "",
       "title": "Roadside Picnic",
       "published": 1972,
       "read": "?",
@@ -3459,7 +3422,7 @@
       "published": 1934,
       "read": "?",
       "tags": [
-        ""
+        "classics"
       ],
       "language": "HUN"
     },
@@ -3470,7 +3433,7 @@
       "published": 1933,
       "read": "?",
       "tags": [
-        ""
+        "classics"
       ],
       "language": "HUN"
     },
@@ -3481,7 +3444,7 @@
       "published": 1932,
       "read": "?",
       "tags": [
-        ""
+        "classics"
       ],
       "language": "HUN"
     },
@@ -3497,7 +3460,6 @@
     },
     {
       "author": "Móra Ferenc",
-      "series": "",
       "title": "Kincskereső kisködmön",
       "published": 1918,
       "read": "?",
@@ -3512,7 +3474,8 @@
       "published": 1943,
       "read": "?",
       "tags": [
-        ""
+        "classics",
+        "fiction"
       ],
       "language": "HUN"
     }
