@@ -2,6 +2,18 @@
   "$schema": "./bookshelf.schema.json",
   "books": [
     {
+      "title": "Bloodchild and Other Stories",
+      "author": "Octavia E. Butler",
+      "read": "",
+      "pages": 144,
+      "tags": [
+        "scifi",
+        "horror"
+      ],
+      "published": 1995,
+      "language": "ENG"
+    },
+    {
       "title": "A Night in the Lonesome October",
       "author": "Roger Zelazny",
       "read": "2023-10-22",
