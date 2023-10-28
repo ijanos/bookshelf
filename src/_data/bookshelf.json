@@ -8,7 +8,8 @@
       "pages": 144,
       "tags": [
         "scifi",
-        "horror"
+        "horror",
+        "short-stories"
       ],
       "published": 1995,
       "language": "ENG"
@@ -591,7 +592,6 @@
     },
     {
       "author": "Adrian Tchaikovsky",
-      "series": "",
       "title": "Walking to Aldebaran",
       "published": 2019,
       "read": "2021-09-30",
@@ -604,7 +604,6 @@
     },
     {
       "author": "M. John Harrison",
-      "series": "",
       "title": "The Course of the Heart",
       "published": 1992,
       "read": "2021-09-15",
@@ -627,7 +626,6 @@
     },
     {
       "author": "qntm",
-      "series": "",
       "title": "Ra",
       "published": 2014,
       "read": "2021-08-04",
@@ -639,7 +637,6 @@
     },
     {
       "author": "Andy Weir",
-      "series": "",
       "title": "Project Hail Mary",
       "published": 2021,
       "read": "2021-07-19",
@@ -662,7 +659,6 @@
     },
     {
       "author": "qntm",
-      "series": "",
       "title": "There Is No Antimemetics Division",
       "published": 2020,
       "read": "2021-06-03",
@@ -685,7 +681,6 @@
     },
     {
       "author": "Roger Williams",
-      "series": "",
       "title": "The Metamorphosis of Prime Intellect",
       "published": 2002,
       "read": "2021-04-29",
@@ -707,7 +702,6 @@
     },
     {
       "author": "Greg Egan",
-      "series": "",
       "title": "Permutation City",
       "published": 1994,
       "read": "2021-03-31",
@@ -718,7 +712,6 @@
     },
     {
       "author": "Susanna Clarke",
-      "series": "",
       "title": "Jonathan Strange & Mr Norrell",
       "published": 2006,
       "read": "2021-03-17",
@@ -753,7 +746,6 @@
     },
     {
       "author": "Aldous Huxley",
-      "series": "",
       "title": "Brave New World",
       "published": 1932,
       "read": "2021-01-22",
@@ -765,7 +757,6 @@
     },
     {
       "author": "Brandon Sanderson",
-      "series": "",
       "title": "Elantris",
       "published": 2005,
       "read": "2021-01-13",
@@ -787,7 +778,6 @@
     },
     {
       "author": "Charles Stross",
-      "series": "",
       "title": "A Tall Tail",
       "published": 2012,
       "read": "2020-11-12",
@@ -820,7 +810,6 @@
     },
     {
       "author": "Charles Stross",
-      "series": "",
       "title": "Toast: And Other Rusted Futures",
       "published": 2002,
       "read": "2020-10-29",
@@ -832,7 +821,6 @@
     },
     {
       "author": "Peter Watts",
-      "series": "",
       "title": "The Wisdom of Crowds",
       "published": 2019,
       "read": "2020-10-27",
@@ -844,7 +832,6 @@
     },
     {
       "author": "Gillian Flynn",
-      "series": "",
       "title": "Sharp Objects",
       "published": 2006,
       "read": "2020-10-17",
@@ -857,7 +844,6 @@
     },
     {
       "author": "Terry Bisson",
-      "series": "",
       "title": "They're Made out of Meat",
       "published": 1991,
       "read": "2020-10-11",
@@ -869,7 +855,6 @@
     },
     {
       "author": "Roger Zelazny",
-      "series": "",
       "title": "Today We Choose Faces",
       "published": 1973,
       "read": "2020-10-05",
@@ -880,7 +865,6 @@
     },
     {
       "author": "Harlan Ellison",
-      "series": "",
       "title": "A Boy and his dog",
       "published": 1969,
       "read": "2020-09-26",
@@ -892,7 +876,6 @@
     },
     {
       "author": "Brandon Sanderson",
-      "series": "",
       "title": "Perfect State",
       "published": 2015,
       "read": "2020-09-25",
@@ -926,7 +909,6 @@
     },
     {
       "author": "John Ousterhout",
-      "series": "",
       "title": "Philosophy of Software Design",
       "published": 2018,
       "read": "2020-07-25",
@@ -975,12 +957,12 @@
     },
     {
       "author": "Shirley Jackson",
-      "series": "",
       "title": "We Have Always Lived in the Castle",
       "published": 1962,
       "read": "2020-05-08",
       "tags": [
-        "mistery"
+        "mystery",
+        "horror"
       ],
       "language": "ENG"
     },
@@ -1031,7 +1013,6 @@
     },
     {
       "author": "Brandon Sanderson",
-      "series": "",
       "title": "Warbreaker",
       "published": 2009,
       "read": "2020-02-04",
@@ -1045,7 +1026,6 @@
         "Jimmy Soni",
         "Rob Goodman"
       ],
-      "series": "",
       "title": "A Mind at Play: How Claude Shannon Invented the Information Age",
       "published": 2017,
       "read": "2019-12-29",
@@ -1057,7 +1037,6 @@
     },
     {
       "author": "Ted Chiang",
-      "series": "",
       "title": "Exhalation: Stories",
       "published": 2019,
       "read": "2019-12-26",
@@ -1070,7 +1049,6 @@
     },
     {
       "author": "Harlan Ellison",
-      "series": "",
       "title": "Deathbird stories",
       "published": 1975,
       "read": "2019-10-22",
@@ -1081,7 +1059,6 @@
     },
     {
       "author": "China Mieville",
-      "series": "",
       "title": "City & the City",
       "published": 2009,
       "read": "2019-10-19",
@@ -1118,7 +1095,6 @@
     },
     {
       "author": "Jordan Mechner",
-      "series": "",
       "title": "The Making of Prince of Persia",
       "published": 2011,
       "read": "2019-07-20",
@@ -1181,7 +1157,6 @@
     },
     {
       "author": "David Kushner",
-      "series": "",
       "title": "Masters of Doom",
       "published": 2003,
       "read": "2018-10-25",
@@ -1195,7 +1170,6 @@
     },
     {
       "author": "William Golding",
-      "series": "",
       "title": "Lord of the Flies",
       "published": 1954,
       "pages": 182,
@@ -1311,7 +1285,6 @@
     },
     {
       "author": "Ted Chiang",
-      "series": "",
       "title": "The Lifecycle of Software Objects",
       "published": 2010,
       "read": "2016-12-13",
@@ -1335,7 +1308,6 @@
     },
     {
       "author": "China Miéville",
-      "series": "",
       "title": "Embassytown",
       "published": 2011,
       "read": "2016-10-13",
@@ -1348,7 +1320,6 @@
     },
     {
       "author": "Kurt Vonnegut",
-      "series": "",
       "title": "The Sirens of Titan",
       "published": 1959,
       "read": "2016-09-17",
@@ -1363,7 +1334,7 @@
         "Jack Thorne",
         "J.K. Rowling"
       ],
-      "series": "",
+      "series": "Harry Potter #8",
       "title": "Harry Potter and the Cursed Child",
       "published": 2016,
       "read": "2016-08-13",
@@ -1379,7 +1350,6 @@
         "Terry Pratchett",
         "Neil Gaiman"
       ],
-      "series": "",
       "title": "Good Omens",
       "published": 1990,
       "read": "2016-08-12",
@@ -1432,7 +1402,6 @@
     },
     {
       "author": "Daniel Keyes",
-      "series": "",
       "title": "Flowers for Algernon",
       "published": 1959,
       "read": "2016-05-02",
@@ -1445,11 +1414,12 @@
     },
     {
       "author": "Ted Chiang",
-      "series": "",
       "title": "Stories of Your Life and Others",
       "published": 2002,
       "read": "2016",
-      "tags": [],
+      "tags": [
+        "scifi"
+      ],
       "pages": 281,
       "language": "ENG"
     },
@@ -1467,7 +1437,6 @@
     },
     {
       "author": "China Miéville",
-      "series": "",
       "title": "Three Moments of an Explosion",
       "published": 2009,
       "read": "2016-02-28",
@@ -1490,7 +1459,6 @@
     },
     {
       "author": "George Orwell",
-      "series": "",
       "title": "1984",
       "published": 1949,
       "read": "2016-02-13",
@@ -1502,7 +1470,6 @@
     },
     {
       "author": "Michael Chabon",
-      "series": "",
       "title": "The Yiddish Policemen's Union",
       "published": 2007,
       "pages": 414,
@@ -1515,7 +1482,6 @@
     },
     {
       "author": "Roger Zelazny",
-      "series": "",
       "title": "Lord of Light",
       "published": 1967,
       "read": "2015-08-25",
@@ -1528,7 +1494,6 @@
     },
     {
       "author": "Samuel R. Delany",
-      "series": "",
       "title": "Nova",
       "published": 1968,
       "pages": 241,
@@ -1689,7 +1654,6 @@
     },
     {
       "author": "Harlan Ellison",
-      "series": "",
       "title": "I Have No Mouth, and I Must Scream",
       "published": 1967,
       "read": "2014-08-23",
@@ -1715,7 +1679,6 @@
     },
     {
       "author": "David Mitchell",
-      "series": "",
       "title": "Cloud Atlas",
       "published": 2004,
       "read": "2014-06-03",
@@ -2124,6 +2087,17 @@
       "language": "ENG"
     },
     {
+      "author": "Bernard Malamud",
+      "title": "God's Grace",
+      "published": 1982,
+      "read": "2012",
+      "tags": [
+        "post-apocalyptic"
+      ],
+      "pages": 240,
+      "language": "HUN"
+    },
+    {
       "author": "Arthur C. Clarke",
       "title": "Childhood's End",
       "published": 1953,
@@ -2235,17 +2209,6 @@
       ],
       "pages": 593,
       "language": "ENG"
-    },
-    {
-      "author": "Philip K. Dick",
-      "title": "The Game-Players of Titan",
-      "published": 1963,
-      "read": "2010",
-      "pages": 240,
-      "tags": [
-        "scifi"
-      ],
-      "language": "HUN"
     },
     {
       "title": "The Wake",
@@ -2366,17 +2329,6 @@
       ],
       "published": 1989,
       "language": "ENG"
-    },
-    {
-      "author": "Philip K. Dick",
-      "title": "A Scanner Darkly",
-      "published": 1977,
-      "pages": 219,
-      "read": "2005",
-      "tags": [
-        "scifi"
-      ],
-      "language": "HUN"
     },
     {
       "author": [
@@ -2540,6 +2492,17 @@
       "language": "HUN"
     },
     {
+      "author": "Philip K. Dick",
+      "title": "The Game-Players of Titan",
+      "published": 1963,
+      "read": "2010",
+      "pages": 240,
+      "tags": [
+        "scifi"
+      ],
+      "language": "HUN"
+    },
+    {
       "author": "Dan Simmions",
       "series": "Hyperion #2",
       "title": "The Fall of Hyperion",
@@ -2562,6 +2525,17 @@
         "scifi"
       ],
       "pages": 500,
+      "language": "HUN"
+    },
+    {
+      "author": "Neil Gaiman",
+      "title": "Anansi boys",
+      "published": 2005,
+      "pages": 387,
+      "read": "2010",
+      "tags": [
+        "fantasy"
+      ],
       "language": "HUN"
     },
     {
@@ -2616,6 +2590,18 @@
       "language": "HUN"
     },
     {
+      "title": "Foundation's Edge",
+      "series": "Foundation #6",
+      "author": "Isaac Asimov",
+      "published": 1982,
+      "read": "2010-07-28",
+      "pages": 450,
+      "tags": [
+        "scifi"
+      ],
+      "language": "ENG"
+    },
+    {
       "author": "Kim Stanley Robinson",
       "title": "The Years of Rice and Salt",
       "published": 2002,
@@ -2626,6 +2612,17 @@
         "fiction"
       ],
       "language": "HUN"
+    },
+    {
+      "author": "Isaac Asimov",
+      "title": "Prelude to Foundation",
+      "published": 1988,
+      "read": "2010-04-27",
+      "tags": [
+        "scifi"
+      ],
+      "pages": 464,
+      "language": "ENG"
     },
     {
       "author": "Philip K. Dick",
@@ -2734,18 +2731,6 @@
       "language": "HUN"
     },
     {
-      "title": "Foundation's Edge",
-      "series": "Foundation #6",
-      "author": "Isaac Asimov",
-      "published": 1982,
-      "read": "2010-07-28",
-      "pages": 450,
-      "tags": [
-        "scifi"
-      ],
-      "language": "ENG"
-    },
-    {
       "author": "Isaac Asimov",
       "series": "Foundation #3",
       "title": "Second Foundation",
@@ -2816,16 +2801,6 @@
       "language": "HUN"
     },
     {
-      "author": "Ray Bradbury",
-      "title": "Something Wicked This Way Comes",
-      "published": 1963,
-      "read": "2008?",
-      "tags": [
-        "fantasy"
-      ],
-      "language": "HUN"
-    },
-    {
       "author": "Philip K. Dick",
       "series": "",
       "title": "Counter-Clock World",
@@ -2833,6 +2808,16 @@
       "read": "2009-11-25",
       "tags": [
         "scifi"
+      ],
+      "language": "HUN"
+    },
+    {
+      "author": "Ray Bradbury",
+      "title": "Something Wicked This Way Comes",
+      "published": 1963,
+      "read": "2008?",
+      "tags": [
+        "fantasy"
       ],
       "language": "HUN"
     },
@@ -2870,17 +2855,6 @@
       "read": "?",
       "tags": [
         "scifi"
-      ],
-      "language": "HUN"
-    },
-    {
-      "author": "Neil Gaiman",
-      "title": "Anansi boys",
-      "published": 2005,
-      "pages": 387,
-      "read": "?",
-      "tags": [
-        "fantasy"
       ],
       "language": "HUN"
     },
@@ -2953,7 +2927,18 @@
       "tags": [
         "short"
       ],
-      "published": 0,
+      "published": 2001,
+      "language": "HUN"
+    },
+    {
+      "author": "Philip K. Dick",
+      "title": "Flow My Tears, the Policeman Said",
+      "published": 1974,
+      "read": "2006",
+      "tags": [
+        "scifi"
+      ],
+      "pages": 204,
       "language": "HUN"
     },
     {
@@ -2964,8 +2949,7 @@
       "read": "2006",
       "tags": [
         "scifi"
-      ],
-      "pages": 411,
+      ],"pages": 411,
       "language": "HUN"
     },
     {
@@ -3004,6 +2988,17 @@
     },
     {
       "author": "Philip K. Dick",
+      "title": "A Scanner Darkly",
+      "published": 1977,
+      "pages": 219,
+      "read": "2005",
+      "tags": [
+        "scifi"
+      ],
+      "language": "HUN"
+    },
+    {
+      "author": "Philip K. Dick",
       "title": "Ubik",
       "published": 1969,
       "read": "2005-03-06",
@@ -3011,28 +3006,6 @@
         "scifi"
       ],
       "pages": 288,
-      "language": "HUN"
-    },
-    {
-      "author": "Isaac Asimov",
-      "title": "Prelude to Foundation",
-      "published": 1988,
-      "read": "?",
-      "tags": [
-        "scifi"
-      ],
-      "pages": 464,
-      "language": "ENG"
-    },
-    {
-      "author": "Philip K. Dick",
-      "title": "Flow My Tears, the Policeman Said",
-      "published": 1974,
-      "read": "?",
-      "tags": [
-        "scifi"
-      ],
-      "pages": 204,
       "language": "HUN"
     },
     {
@@ -3105,17 +3078,6 @@
         "humor"
       ],
       "pages": 216,
-      "language": "HUN"
-    },
-    {
-      "author": "Bernard Malamud",
-      "title": "God's Grace",
-      "published": 1982,
-      "read": "2012",
-      "tags": [
-        "post-apocalyptic"
-      ],
-      "pages": 240,
       "language": "HUN"
     },
     {
@@ -3426,6 +3388,28 @@
         "classics",
         "fiction"
       ]
+    },
+    {
+      "title": "Téli ​berek",
+      "author": "Fekete István",
+      "series": "Tüskevár #2",
+      "read": "?",
+      "tags": [
+        ""
+      ],
+      "published": 1959,
+      "language": "HUN"
+    },
+    {
+      "title": "Tüskevár",
+      "author": "Fekete István",
+      "series": "Tüskevár #1",
+      "read": "?",
+      "tags": [
+        ""
+      ],
+      "published": 1957,
+      "language": "HUN"
     },
     {
       "author": "Tamási Áron",
