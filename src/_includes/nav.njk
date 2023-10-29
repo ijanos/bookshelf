@@ -1,4 +1,4 @@
-<nav class="bg-white">
+<nav>
   <div class="px-2 mx-auto max-w-7xl sm:px-6 lg:px-8">
     <div class="flex items-center justify-between h-16">
       <div class="text-2xl whitespace-nowrap">
@@ -11,6 +11,9 @@
             <a href="/comics/" class="px-2 py-2 font-medium
              {% if page.url == "/comics/" %}  text-white bg-gray-900  {% else %} text-gray-800 {% endif %}
               rounded-md hover:bg-gray-700 hover:text-white">comics</a>
+            <a href="/about/" class="px-2 py-2 font-medium
+             {% if page.url == "/about/" %}  text-white bg-gray-900  {% else %} text-gray-800 {% endif %}
+              rounded-md hover:bg-gray-700 hover:text-white">about</a>
             {# <a href="#" class="px-2 py-2 font-medium text-gray-300 rounded-md hover:bg-gray-700 hover:text-white">stats</a>
             <a href="#" class="px-2 py-2 font-medium text-gray-300 rounded-md hover:bg-gray-700 hover:text-white">covers</a> #}
       </div>
