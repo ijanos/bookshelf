@@ -243,7 +243,7 @@
     {
       "author": "Brandon Sanderson",
       "series": "Mistborn #6",
-      "title": "Bands of mourning",
+      "title": "Bands of Mourning",
       "published": 2016,
       "read": "2022-11-23",
       "tags": [
@@ -1965,6 +1965,18 @@
       "language": "ENG"
     },
     {
+      "author": "Arthur C. Clarke",
+      "series": "Space Odyssey #1",
+      "title": "2001: A Space Odyssey",
+      "published": 1986,
+      "read": "?",
+      "tags": [
+        "scifi"
+      ],
+      "pages": 297,
+      "language": "ENG"
+    },
+    {
       "author": "Pierre Boulle",
       "title": "Planet of the Apes",
       "published": 1963,
@@ -2135,6 +2147,30 @@
       "language": "ENG"
     },
     {
+      "author": "Neal Stephenson",
+      "title": "The Diamond Age: Or, A Young Lady's Illustrated Primer",
+      "published": 1995,
+      "read": "2012-03-03",
+      "tags": [
+        "Hugo🥇",
+        "scifi"
+      ],
+      "pages": 499,
+      "language": "ENG"
+    },
+    {
+      "author": "Peter Watts",
+      "series": "Firefall #1",
+      "title": "Blindsight",
+      "published": 2006,
+      "read": "2012-01-25",
+      "tags": [
+        "scifi"
+      ],
+      "pages": 384,
+      "language": "ENG"
+    },
+    {
       "author": "Cormac McCarthy",
       "title": "The Road",
       "published": 2006,
@@ -2160,27 +2196,15 @@
       "language": "ENG"
     },
     {
-      "author": "Neal Stephenson",
-      "title": "The Diamond Age: Or, A Young Lady's Illustrated Primer",
-      "published": 1995,
-      "read": "2012-03-03",
-      "tags": [
-        "Hugo🥇",
-        "scifi"
-      ],
-      "pages": 499,
-      "language": "ENG"
-    },
-    {
-      "author": "Peter Watts",
-      "series": "Firefall #1",
-      "title": "Blindsight",
-      "published": 2006,
-      "read": "2012-01-25",
+      "author": "Arthur C. Clarke",
+      "series": "Space Odyssey #1",
+      "title": "2001: A Space Odyssey",
+      "published": 1986,
+      "read": "?",
       "tags": [
         "scifi"
       ],
-      "pages": 384,
+      "pages": 297,
       "language": "ENG"
     },
     {
@@ -2195,19 +2219,6 @@
         "fantasy",
         "fiction"
       ],
-      "language": "ENG"
-    },
-    {
-      "author": "Iain M. Banks",
-      "series": "Culture #8",
-      "title": "Matter",
-      "published": 2008,
-      "read": "2010-07-28",
-      "tags": [
-        "scifi",
-        "space opera"
-      ],
-      "pages": 593,
       "language": "ENG"
     },
     {
@@ -2519,7 +2530,7 @@
       "series": "Hyperion #1",
       "title": "Hyperion",
       "published": 1989,
-      "read": "2010",
+      "read": "2011",
       "tags": [
         "Hugo🥇",
         "scifi"
@@ -2537,18 +2548,6 @@
         "fantasy"
       ],
       "language": "HUN"
-    },
-    {
-      "author": "Arthur C. Clarke",
-      "series": "Space Odyssey #1",
-      "title": "2001: A Space Odyssey",
-      "published": 1986,
-      "read": "?",
-      "tags": [
-        "scifi"
-      ],
-      "pages": 297,
-      "language": "ENG"
     },
     {
       "author": "Iain M. Banks",
@@ -2612,6 +2611,19 @@
         "fiction"
       ],
       "language": "HUN"
+    },
+    {
+      "author": "Iain M. Banks",
+      "series": "Culture #8",
+      "title": "Matter",
+      "published": 2008,
+      "read": "2010-07-28",
+      "tags": [
+        "scifi",
+        "space opera"
+      ],
+      "pages": 593,
+      "language": "ENG"
     },
     {
       "author": "Isaac Asimov",
