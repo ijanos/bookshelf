@@ -933,7 +933,6 @@
     },
     {
       "author": "Fabien Sanglard",
-      "series": "",
       "title": "Game Engine Black Book: Doom",
       "published": 2018,
       "read": "2020-06-20",
@@ -1122,7 +1121,6 @@
     },
     {
       "author": "Andy Weir",
-      "series": "",
       "title": "Artemis",
       "published": 2017,
       "read": "2019-06-02",
@@ -1430,7 +1428,7 @@
       "published": 2009,
       "read": "2016-04-03",
       "tags": [
-        ""
+        "fantasy"
       ],
       "pages": 416,
       "language": "HUN"
@@ -1530,7 +1528,6 @@
     },
     {
       "author": "Gene Wolfe",
-      "series": "",
       "title": "The Fifth Head of Cerberus",
       "published": 1972,
       "read": "2015-05-09",
@@ -1570,7 +1567,6 @@
     },
     {
       "author": "Charles Stross",
-      "series": "",
       "title": "Accelerando",
       "published": 2005,
       "pages": 415,
@@ -1582,7 +1578,6 @@
     },
     {
       "author": "Neil Gaiman",
-      "series": "",
       "title": "Fortunately, the Milk",
       "published": 2013,
       "pages": 113,
@@ -1595,17 +1590,17 @@
     },
     {
       "author": "Robert A. Heinlein",
-      "series": "",
       "title": "All You Zombies",
       "published": 1959,
       "read": "2014-12-22",
-      "tags": [],
+      "tags": [
+        "scifi"
+      ],
       "pages": 13,
       "language": "ENG"
     },
     {
       "author": "Dan Simmons",
-      "series": "",
       "title": "Song of Kali",
       "published": 1985,
       "pages": 311,
@@ -1617,7 +1612,6 @@
     },
     {
       "author": "Andy Weir",
-      "series": "",
       "title": "The Martian",
       "published": 2011,
       "read": "2014-11-21",
@@ -1629,7 +1623,6 @@
     },
     {
       "author": "Richard P. Feynman",
-      "series": "",
       "title": "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",
       "published": 1985,
       "pages": 391,
@@ -1752,7 +1745,6 @@
     },
     {
       "author": "Neil Gaiman",
-      "series": "",
       "title": "The Graveyard book",
       "published": 2008,
       "read": "2013-10-06",
@@ -2814,7 +2806,6 @@
     },
     {
       "author": "Philip K. Dick",
-      "series": "",
       "title": "Counter-Clock World",
       "published": 1967,
       "read": "2009-11-25",
@@ -2922,7 +2913,6 @@
     },
     {
       "author": "Neil Gaiman",
-      "series": "",
       "title": "Trigger Warning: Short Fictions and Disturbances",
       "published": 2015,
       "read": "?",
@@ -3407,7 +3397,8 @@
       "series": "Tüskevár #2",
       "read": "?",
       "tags": [
-        ""
+        "classics",
+        "YA"
       ],
       "published": 1959,
       "language": "HUN"
@@ -3418,7 +3409,8 @@
       "series": "Tüskevár #1",
       "read": "?",
       "tags": [
-        ""
+        "classics",
+        "YA"
       ],
       "published": 1957,
       "language": "HUN"
