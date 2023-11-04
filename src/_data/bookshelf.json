@@ -2,9 +2,21 @@
   "$schema": "./bookshelf.schema.json",
   "books": [
     {
+      "title": "The Jaunt",
+      "author": "Stephen King",
+      "read": "2023-11-03",
+      "pages": 25,
+      "tags": [
+        "horror",
+        "short"
+      ],
+      "published": 1981,
+      "language": "ENG"
+    },
+    {
       "title": "Bloodchild and Other Stories",
       "author": "Octavia E. Butler",
-      "read": "",
+      "read": "2023-11-01",
       "pages": 144,
       "tags": [
         "scifi",
