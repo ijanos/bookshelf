@@ -334,7 +334,7 @@
       "published": 2022,
       "read": "2022-08-26",
       "tags": [
-        "novelette",
+        "short",
         "scifi"
       ],
       "language": "ENG"
@@ -1123,7 +1123,7 @@
       "published": 1984,
       "read": "2019-06-27",
       "tags": [
-        "Hugo🥇",
+        "hugo-winner",
         "Nebula 🥇",
         "Philip K. Dick 🥇",
         "cyberpunk",
@@ -1224,7 +1224,7 @@
       "pages": 304,
       "read": "2018-05-13",
       "tags": [
-        "Hugo🥇",
+        "hugo-winner",
         "scifi"
       ],
       "language": "ENG"
@@ -1262,7 +1262,9 @@
       "read": "2017",
       "tags": [
         "posthuman",
-        "scifi"
+        "scifi",
+        "space opera",
+        "singularity"
       ],
       "pages": 292,
       "language": "ENG"
@@ -1462,7 +1464,7 @@
       "read": "2016-02-28",
       "pages": 399,
       "tags": [
-        "Hugo🥇",
+        "hugo-winner",
         "scifi"
       ],
       "language": "ENG"
@@ -1485,7 +1487,7 @@
       "pages": 414,
       "read": "2016-01-15",
       "tags": [
-        "Hugo🥇",
+        "hugo-winner",
         "alternate history"
       ],
       "language": "ENG"
@@ -1497,7 +1499,7 @@
       "read": "2015-08-25",
       "pages": 296,
       "tags": [
-        "Hugo🥇",
+        "hugo-winner",
         "scifi"
       ],
       "language": "ENG"
@@ -1545,7 +1547,7 @@
       "read": "2015-05-09",
       "tags": [
         "scifi",
-        "⭐"
+        "short-stories"
       ],
       "pages": 252,
       "language": "ENG"
@@ -1749,7 +1751,7 @@
       "pages": 604,
       "read": "2013-11-15",
       "tags": [
-        "Hugo🥇",
+        "hugo-winner",
         "Nebula 🥇",
         "scifi"
       ],
@@ -2011,7 +2013,7 @@
       "read": "2012-09-30",
       "tags": [
         "scifi",
-        "⭐"
+        "space opera"
       ],
       "language": "ENG"
     },
@@ -2059,9 +2061,8 @@
       "read": "2012-08-04",
       "pages": 243,
       "tags": [
-        "Hugo🥇",
-        "scifi",
-        "⭐"
+        "hugo-winner",
+        "scifi"
       ],
       "language": "ENG"
     },
@@ -2072,7 +2073,7 @@
       "pages": 288,
       "read": "2012-07-29",
       "tags": [
-        "Hugo🥇",
+        "hugo-winner",
         "scifi"
       ],
       "language": "ENG"
@@ -2083,7 +2084,7 @@
       "published": 2009,
       "read": "2012-03-04",
       "tags": [
-        "Hugo🥇",
+        "hugo-winner",
         "biopunk",
         "dystopian",
         "scifi"
@@ -2143,7 +2144,7 @@
       "published": 1985,
       "read": "2012-01-15",
       "tags": [
-        "Hugo🥇",
+        "hugo-winner",
         "YA",
         "scifi"
       ],
@@ -2156,7 +2157,7 @@
       "published": 1995,
       "read": "2012-03-03",
       "tags": [
-        "Hugo🥇",
+        "hugo-winner",
         "scifi"
       ],
       "pages": 499,
@@ -2397,7 +2398,7 @@
       "published": 2005,
       "read": "?",
       "tags": [
-        "Hugo🥇",
+        "hugo-winner",
         "scifi"
       ],
       "pages": 464,
@@ -2536,7 +2537,7 @@
       "published": 1989,
       "read": "2011",
       "tags": [
-        "Hugo🥇",
+        "hugo-winner",
         "scifi"
       ],
       "pages": 500,
@@ -2573,7 +2574,7 @@
       "read": "2011-03-31",
       "pages": 264,
       "tags": [
-        "Hugo🥇",
+        "hugo-winner",
         "military",
         "scifi"
       ],
@@ -3283,7 +3284,7 @@
       "published": 2000,
       "read": "2001",
       "tags": [
-        "Hugo🥇",
+        "hugo-winner",
         "YA",
         "fantasy",
         "magic"
