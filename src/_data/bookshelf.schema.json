@@ -55,7 +55,10 @@
                 },
                 "read": {
                     "type": "string",
-                    "format": "date"
+                    "oneOf": [
+                        { "format": "date" },
+                        { "pattern": "^[%0-9]{4}$" }
+                    ]
                 },
                 "language": {
                     "type": "string",
