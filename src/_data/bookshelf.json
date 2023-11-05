@@ -2,6 +2,16 @@
   "$schema": "./bookshelf.schema.json",
   "books": [
     {
+      "title": "Axiom's End",
+      "author": "Lindsay Ellis",
+      "read": "",
+      "tags": [
+        "scifi"
+      ],
+      "published": 2020,
+      "language": "ENG"
+    },
+    {
       "title": "The Jaunt",
       "author": "Stephen King",
       "read": "2023-11-03",
