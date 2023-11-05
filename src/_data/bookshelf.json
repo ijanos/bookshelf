@@ -2201,18 +2201,6 @@
       "language": "ENG"
     },
     {
-      "author": "Arthur C. Clarke",
-      "series": "Space Odyssey #1",
-      "title": "2001: A Space Odyssey",
-      "published": 1986,
-      "read": "?",
-      "tags": [
-        "scifi"
-      ],
-      "pages": 297,
-      "language": "ENG"
-    },
-    {
       "author": "Neil Gaiman",
       "series": "American Gods #1",
       "title": "American Gods",
@@ -3178,17 +3166,6 @@
         "short-stories"
       ],
       "pages": 420
-    },
-    {
-      "title": "The Deep Range",
-      "author": "Arthur C. Clarke",
-      "published": 1957,
-      "pages": 224,
-      "read": "?",
-      "language": "HUN",
-      "tags": [
-        "scifi"
-      ]
     },
     {
       "author": [
