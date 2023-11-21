@@ -2,9 +2,21 @@
   "$schema": "./bookshelf.schema.json",
   "books": [
     {
+      "title": "The State of the Art",
+      "author": "Iain M. Banks",
+      "series": "Culture #4",
+      "read": "",
+      "tags": [
+        "scifi",
+        "short-stories"
+      ],
+      "published": 1989,
+      "language": "ENG"
+    },
+    {
       "title": "Axiom's End",
       "author": "Lindsay Ellis",
-      "read": "",
+      "read": "2023-11-18",
       "tags": [
         "scifi"
       ],
