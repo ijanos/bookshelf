@@ -2,6 +2,21 @@
   "$schema": "./bookshelf.schema.json",
   "books": [
     {
+      "title": "The Haunting of Tram Car 015",
+      "author": "P. Djèlí Clark",
+      "series": "Dead Djinn Universe #0.3",
+      "read": "2023-12-08",
+      "tags": [
+        "fantasy",
+        "mystery",
+        "urban fantasy",
+        "alternate history"
+      ],
+      "published": 2019,
+      "pages": 130,
+      "language": "ENG"
+    },
+    {
       "title": "The State of the Art",
       "author": "Iain M. Banks",
       "series": "Culture #4",
