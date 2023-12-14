@@ -2,6 +2,18 @@
   "$schema": "./bookshelf.schema.json",
   "books": [
     {
+      "title": "The Forge of God",
+      "series": "Forge of God #1",
+      "author": "Greg Bear",
+      "read": "",
+      "tags": [
+        "scifi"
+      ],
+      "published": 1987,
+      "pages": 474,
+      "language": "ENG"
+    },
+    {
       "title": "The Haunting of Tram Car 015",
       "author": "P. Djèlí Clark",
       "series": "Dead Djinn Universe #0.3",
