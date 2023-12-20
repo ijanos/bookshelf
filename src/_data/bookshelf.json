@@ -2,6 +2,20 @@
   "$schema": "./bookshelf.schema.json",
   "books": [
     {
+      "title": "Long Chills and Case Dough",
+      "author": "Brandon Sanderson",
+      "read": "",
+      "tags": [
+        "scifi",
+        "short",
+        "detective",
+        "noir"
+      ],
+      "published": 2023,
+      "pages": 67,
+      "language": "ENG"
+    },
+    {
       "title": "The Forge of God",
       "series": "Forge of God #1",
       "author": "Greg Bear",
